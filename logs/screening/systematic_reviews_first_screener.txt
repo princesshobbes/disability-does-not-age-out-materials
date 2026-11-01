@@ -1,0 +1,257 @@
+S001|INCLUDE||digital media use and ADHD symptoms, longitudinal both directions
+S002|INCLUDE||problematic social media use and ADHD symptoms
+S003|EXCLUDE|E1|dark pattern experiments; no tracked condition
+S004|EXCLUDE|E1|attention capture design typology; no tracked condition
+S005|EXCLUDE|E1|compulsive buying and problematic social network use mechanisms; no tracked condition
+S006|EXCLUDE|E1|treatment for compulsive buying-shopping disorder; no tracked condition, no online studies
+S007|INCLUDE||loot boxes and problem gambling
+S008|INCLUDE||microtransactions and gambling disorder
+S009|INCLUDE||ADHD and gaming disorder
+S010|INCLUDE||microtransactions and problem gambling
+S011|INCLUDE||adult ADHD and internet gaming disorder
+S012|INCLUDE||ADHD and internet addiction comorbidity
+S013|EXCLUDE|E2|ADHD and laboratory gambling tasks; no online exposure
+S014|INCLUDE||behavioural addictions incl. internet addiction in bipolar disorder
+S015|INCLUDE||internet addiction and ADHD, depression in adolescents
+S016|EXCLUDE|E1|personality traits and behavioural addictions; no tracked condition
+S017|INCLUDE||problematic AI use and depression, social anxiety
+S018|EXCLUDE|E3|dark patterns in online gambling; no finding linking gambling problems to them
+S019|INCLUDE||sports gambling advertising incl. digital; stronger in higher-risk gamblers
+S020|INCLUDE||short-form video and inattention, anxiety, depression
+S021|INCLUDE||social media and connectedness in autism and ADHD
+S022|INCLUDE||social media, cyberbullying and self-esteem in ADHD and autism
+S023|INCLUDE||digital media and adult ADHD symptoms
+S024|INCLUDE||gaming escapism and mental health, anxious individuals
+S025|INCLUDE||problematic gaming and ADHD, anxiety, depression in adolescents
+S026|INCLUDE||gaming disorder reciprocal with depressive and inattentive symptoms, anxiety as consequence
+S027|EXCLUDE|E1|face validity of gaming disorder screening tools; no tracked condition
+S028|INCLUDE||sports betting and gambling disorder, substance use, psychopathology
+S029|INCLUDE||gambling-like and online gambling activities and problem gambling, psychopathology
+S030|INCLUDE||prevalence of problem online gambling among adolescents
+S031|INCLUDE||loot boxes, esports and skin betting and problem gambling, mental distress
+S032|INCLUDE||problematic internet use, online gambling and mood disorders
+S033|INCLUDE||internet gaming disorder and substance use
+S034|INCLUDE||gaming disorder and alcohol use disorder, other addictive behaviours
+S035|EXCLUDE|E1|buy now pay later and impulsive buying; no tracked condition
+S036|INCLUDE||problematic social media use and depression, anxiety
+S037|INCLUDE||social media use and depressive and anxiety symptoms in children
+S038|INCLUDE||problematic social media use and depression, anxiety (MENA)
+S039|INCLUDE||social media and depression, anxiety, distress in adolescents
+S040|INCLUDE||social networking and depressive, anxiety symptoms in children
+S041|INCLUDE||overview: depression, anxiety, social anxiety as risk factors for problematic social network use
+S042|INCLUDE||problematic SNS use and depression, anxiety, ADHD, OCD
+S043|INCLUDE||adolescent social media use and anxiety
+S044|INCLUDE||vicarious trauma from viewing extremist content incl. online content moderation
+S045|EXCLUDE|E2|indirect trauma exposure incl. work-related media; online exposure not stated
+S046|INCLUDE||doomscrolling and anxiety, depression
+S047|INCLUDE||doomscrolling and anxiety, depression, distress
+S048|INCLUDE||doomscrolling and stress, anxiety, depression in students
+S049|INCLUDE||doomscrolling and distress, anxiety in workers
+S050|INCLUDE||cyberchondria and health anxiety, depression
+S051|INCLUDE||cyberchondria and health anxiety, OCD
+S052|INCLUDE||cyberchondria and OCD symptoms, depression, anxiety
+S053|EXCLUDE|E2|reassurance-seeking in anxiety and OCD; no online exposure
+S054|INCLUDE||online health research and health anxiety
+S055|INCLUDE||emotional reliance on AI companions and mental health harms incl. fatal dependency cases
+S056|INCLUDE||AI chatbots' handling of suicide and self-harm crises (safety, not efficacy)
+S057|INCLUDE||cyberbullying and depression, anxiety, suicidality; autistic adolescents
+S058|INCLUDE||umbrella review: cyberbullying victimization and psychological outcomes
+S059|INCLUDE||cybervictimization and depression, anxiety, suicidal behaviour in students
+S060|INCLUDE||cyberbullying and suicidal ideation, self-harm, longitudinal
+S061|INCLUDE||cyberstalking and harassment and depression, anxiety, suicidal ideation in adults
+S062|INCLUDE||digital harassment and depression, anxiety, PTSD in healthcare workers
+S063|INCLUDE||viewing self-harm images online and self-harm
+S064|INCLUDE||online social networking and self-harm, suicidality
+S065|INCLUDE||Instagram use and deliberate self-harm
+S066|INCLUDE||suicide and self-harm content on Instagram and effects on users
+S067|INCLUDE||social media use and deliberate self-harm in youth
+S068|INCLUDE||viewing and sharing self-harm images and videos
+S069|INCLUDE||social media and NSSI in adolescents
+S070|INCLUDE||social media to discuss and view self-harm
+S071|INCLUDE||online mental health peer support forums (moderators' role)
+S072|INCLUDE||online mental health peer support for young people
+S073|INCLUDE||depression detectable from social media profiles (data inference)
+S074|INCLUDE||social media use and depression
+S075|INCLUDE||social media and depression, anxiety in youth
+S076|INCLUDE||adult social media use and depression, anxiety
+S077|INCLUDE||social anxiety and problematic social media use
+S078|EXCLUDE|E1|stress and compulsive buying-shopping disorder; no tracked condition
+S079|INCLUDE||online gambling risk factors; online problem gamblers compared
+S080|INCLUDE||depressive symptoms and problem gambling and gaming
+S081|EXCLUDE|E3|AI companionship ethics review; no finding linking a tracked condition to the exposure
+S082|INCLUDE||ChatGPT used for mental health support; under-identification of suicide risk, over-reliance
+S083|EXCLUDE|E3|generative AI applications in psychiatry (tool performance); no finding linking a condition to the exposure as met in ordinary use
+S084|UNCLEAR||fraud victimization and anxiety, depression; online fraud not specified
+S085|UNCLEAR||online romance scams; victim characteristics include susceptibility to addiction; tracked condition unclear
+S086|INCLUDE||social media use and depression, suicidality in adolescents
+S087|INCLUDE||social media and depressive symptoms in youth
+S088|UNCLEAR||predictors of problematic smartphone and social media use incl. negative affectivity; tracked condition unclear
+S089|INCLUDE||umbrella review: mobile technology and social media and depression
+S090|INCLUDE||anxiety and problematic smartphone use
+S091|INCLUDE||problematic smartphone use and depression, anxiety
+S092|INCLUDE||online disclosure of victimization by trauma survivors; benefits and risks incl. re-traumatization
+S093|INCLUDE||online disclosure of sexual victimization
+S094|INCLUDE||self-harm and suicide content online
+S095|INCLUDE||device use, cybervictimization, sleep and mental health in adolescents
+S096|INCLUDE||problem online gambling and comorbidity
+S097|UNCLEAR||disordered gambling risk factors incl. comorbid mental health, trauma, mode of gambling; online mode not explicit
+S098|INCLUDE||childhood maltreatment and vulnerability to online harm
+S099|EXCLUDE|E2|childhood maltreatment and adult revictimization; no online exposure
+S100|INCLUDE||dating apps and body image, eating disorders, depression
+S101|INCLUDE||problematic online dating and mood problems, anxieties
+S102|INCLUDE||social networking sites and depression, anxiety
+S103|INCLUDE||problematic TikTok use and anxiety, depression
+S104|INCLUDE||COVID-19 news incl. social media and distress in young people
+S105|INCLUDE||online peer-to-peer support for young people with mental health problems (mostly moderated)
+S106|EXCLUDE|E2|peer workers for youth anxiety and depression; no online delivery mentioned
+S107|UNCLEAR||digital detox interventions and health and well-being; depression as an outcome not explicit
+S108|INCLUDE||cyberchondria and health anxiety
+S109|INCLUDE||problematic smartphone use and depression, anxiety (MENA)
+S110|INCLUDE||social media, body image and eating disorder symptoms in youth
+S111|INCLUDE||social media, body image and eating disorders in young people
+S112|INCLUDE||social media use and eating disorders in young adults
+S113|INCLUDE||social media and orthorexia, muscle dysmorphia symptoms
+S114|INCLUDE||highly visual social media and eating disorders
+S115|INCLUDE||social media and depressive, disordered eating, anxiety symptoms
+S116|INCLUDE||social media and eating disorder psychopathology
+S117|INCLUDE||SNS use and body image, disordered eating
+S118|INCLUDE||social media and eating disorder cognitions in adolescents
+S119|INCLUDE||peer influence on eating via social media incl. eating disorder forums
+S120|INCLUDE||social media use during eating disorder recovery
+S121|INCLUDE||eating disorder risk factors incl. appearance-focused social media
+S122|INCLUDE||orthorexia and social media, bidirectional
+S123|INCLUDE||social media addiction and body dysmorphia, eating disorders
+S124|INCLUDE||social media use and psychosis spectrum, body dysmorphia, eating disorders
+S125|INCLUDE||pro-anorexia websites and eating disorders
+S126|INCLUDE||fitspiration content and body dissatisfaction, negative mood
+S127|INCLUDE||pro-eating disorder websites and eating disorder symptoms
+S128|INCLUDE||pro-eating disorder websites; longer illness and more hospitalisations among people with eating disorders
+S129|INCLUDE||internet and social media use and body image, eating concerns
+S130|INCLUDE||TikTok and eating disorders, body image
+S131|INCLUDE||eating-related social media content and body image, disordered eating
+S132|INCLUDE||social media and body dissatisfaction, social appearance anxiety, cosmetic surgery
+S133|INCLUDE||AI beauty filters and body dissatisfaction, appearance anxiety
+S134|UNCLEAR||diet and fitness app use and disordered eating; whether these apps count as a tracked online exposure is a rule question
+S135|UNCLEAR||fitness and diet tracking technology and disordered eating; same rule question
+S136|UNCLEAR||health-tracking apps and disordered eating; same rule question
+S137|EXCLUDE|E4|treatment content of eating disorder apps
+S138|INCLUDE||problematic smartphone use and eating disorder psychopathology
+S139|EXCLUDE|E4|AI-personalised eating disorder interventions, feasibility and safety
+S140|EXCLUDE|E2|anti-obesity public health messages; no online exposure
+S141|INCLUDE||SNS use and body image dissatisfaction, BDD
+S142|INCLUDE||social media and body image, disordered eating in children, longitudinal
+S143|EXCLUDE|E4|body image interventions delivered on social media, tested for effect
+S144|EXCLUDE|E1|mukbang and eating behaviour, well-being; no tracked condition
+S145|EXCLUDE|E2|eating disorder relapse experiences; no online exposure
+S146|EXCLUDE|E2|compulsive buying and disordered eating; no online exposure
+S147|INCLUDE||social media image content and body dissatisfaction, dieting, overeating
+S148|INCLUDE||Instagram use and depression, anxiety, disordered eating
+S149|INCLUDE||photo-editing and body concerns
+S150|INCLUDE||idealized images on SNS and body dissatisfaction, experimental
+S151|INCLUDE||online eating disorder content and young people's experiences (preprint)
+S152|INCLUDE||pro-ana communities and eating disorders
+S153|INCLUDE||problematic video game use in autism
+S154|INCLUDE||autism and gaming disorder, internet addiction
+S155|INCLUDE||autism and problematic internet use, gaming disorder
+S156|INCLUDE||problematic internet use in autism vs comparison groups
+S157|INCLUDE||online child sexual exploitation of children with disabilities
+S158|INCLUDE||cyberbullying victimisation of people with intellectual disabilities
+S159|EXCLUDE|E2|teaching young people with SEN about sexual exploitation; online exposure not examined
+S160|EXCLUDE|E2|child sexual abuse of children with disabilities; no online exposure
+S161|INCLUDE||cyberbullying among adolescents with neurodevelopmental disorders and how it is managed
+S162|INCLUDE||online fraud victimization of older adults and cognitive decline
+S163|UNCLEAR||financial exploitation of older adults and cognitive function, depression; online form not explicit
+S164|UNCLEAR||financial exploitation in dementia; online form not explicit
+S165|EXCLUDE|E2|interventions for financial vulnerability in dementia; no online exposure
+S166|INCLUDE||media-reported psychiatric harms (suicide, psychosis) linked to AI chatbots
+S167|INCLUDE||conversational AI and spiritually framed delusions in psychosis, mania
+S168|INCLUDE||social media and symptoms of schizophrenia and psychotic disorders
+S169|INCLUDE||online social networking by people with psychosis
+S170|EXCLUDE|E4|online and mobile interventions for psychosis, efficacy and feasibility
+S171|INCLUDE||social media and early psychosis, clinical high risk
+S172|INCLUDE||online social networking in people with psychosis
+S173|INCLUDE||internet use risks and benefits for people with intellectual disability
+S174|INCLUDE||online social networking peer platforms for people with psychosis (no reduction in isolation)
+S175|INCLUDE||ICT use, risks and benefits for people with psychotic disorders
+S176|INCLUDE||social internet use by people with intellectual disabilities
+S177|INCLUDE||restricted internet access for people with intellectual disabilities (access barriers)
+S178|INCLUDE||social media use by people with intellectual disability; safeguarding and access barriers
+S179|INCLUDE||online safety in dementia and MCI: scams, misinformation, distress
+S180|INCLUDE||smartphone and tablet use with cognitive impairment; accessibility barriers
+S181|INCLUDE||social media use by people with traumatic brain injury, risks and barriers
+S182|INCLUDE||social media skills and safety for people with acquired brain injury; no accessible resources
+S183|INCLUDE||dyslexia and online learning barriers
+S184|EXCLUDE|E2|easy-read materials for intellectual disability; no online exposure
+S185|UNCLEAR||cognitive impairment and exploitation (sexual, financial); online form not explicit
+S186|INCLUDE||autism and video game addiction
+S187|INCLUDE||autism and online dating, safety concerns
+S188|INCLUDE||ICT communication by autistic people, benefits and drawbacks
+S189|INCLUDE||autistic people's social media experience
+S190|EXCLUDE|E4|social media interventions for autistic individuals, tested for effect
+S191|EXCLUDE|E4|healthcare conversational agents for cognitively disabled people
+S192|EXCLUDE|E4|quality assessment of rehabilitation chatbots for people with disabilities
+S193|INCLUDE||web accessibility for people with cognitive disabilities
+S194|INCLUDE||social media use by adults with intellectual disabilities, incl. bullying and exploitation
+S195|INCLUDE||internet use for sexual purposes by people with intellectual disabilities, risks
+S196|EXCLUDE|E2|sexual abuse prevention programmes for intellectual disability; no online exposure
+S197|EXCLUDE|E2|autism and gambling tasks; online gambling not examined
+S198|EXCLUDE|E2|sexual violence among autistic people; online form not examined
+S199|INCLUDE||virtual social contact for people with intellectual disabilities in care facilities
+S200|EXCLUDE|E2|neurodivergence and violent extremism; online exposure not examined
+S201|INCLUDE||older adults' susceptibility to online health misinformation incl. cognitive decline
+S202|EXCLUDE|E4|dementia care chatbots assessed for features and quality
+S203|UNCLEAR||financial abuse in intellectual and developmental disabilities; online form not explicit
+S204|EXCLUDE|E2|global burden of mental disorders; no online exposure
+S205|EXCLUDE|E2|global burden of mental disorders; no online exposure
+S206|EXCLUDE|E2|ADHD burden; no online exposure
+S207|EXCLUDE|E2|child mental disorder prevalence; no online exposure
+S208|EXCLUDE|E2|anxiety disorder burden incl. bullying; online form not examined
+S209|EXCLUDE|E2|depressive disorder burden; no online exposure
+S210|EXCLUDE|E2|schizophrenia burden; no online exposure
+S211|EXCLUDE|E2|long-term ADHD outcomes; no online exposure
+S212|EXCLUDE|E2|ADHD meta-review; no online exposure
+S213|EXCLUDE|E2|risks of undiagnosed ADHD and autism; no online exposure
+S214|EXCLUDE|E2|ADHD in adult women; no online exposure
+S215|EXCLUDE|E2|autism prevalence; no online exposure
+S216|EXCLUDE|E2|autism burden; no online exposure
+S217|EXCLUDE|E2|autism burden; no online exposure
+S218|EXCLUDE|E2|autism comorbidity prevalence; no online exposure
+S219|EXCLUDE|E2|autism psychiatric comorbidity; no online exposure
+S220|EXCLUDE|E2|OCD prevalence; no online exposure
+S221|EXCLUDE|E2|bipolar burden; no online exposure
+S222|EXCLUDE|E2|eating disorder prevalence; no online exposure
+S223|EXCLUDE|E2|intellectual disability prevalence; no online exposure
+S224|EXCLUDE|E2|intellectual and developmental disability prevalence; no online exposure
+S225|EXCLUDE|E2|developmental disability prevalence; no online exposure
+S226|EXCLUDE|E2|dementia prevalence; no online exposure
+S227|EXCLUDE|E2|dementia burden; no online exposure
+S228|EXCLUDE|E2|early-onset dementia burden; no online exposure
+S229|EXCLUDE|E2|substance use disorder burden; no online exposure
+S230|EXCLUDE|E2|alcohol and drug burden; no online exposure
+S231|EXCLUDE|E2|youth substance use disorder burden; no online exposure
+S232|INCLUDE||cyberbullying among children with neurodevelopmental disorders
+S233|INCLUDE||social media use by people with disabilities: community, cyberbullying, accessibility
+S234|INCLUDE||digital inclusion and exclusion of people with intellectual disabilities during COVID-19
+S235|INCLUDE||cyber-victimization of people with chronic conditions and disabilities
+S236|EXCLUDE|E2|transition services for young people with disabilities; no online exposure
+S237|EXCLUDE|E2|bullying of deaf and hard-of-hearing children; online form not examined
+S238|UNCLEAR||online child sexual abuse named in results as an emerging risk; check whether any included study examined it
+S239|EXCLUDE|E2|burden of brain disorders in Europe; no online exposure
+S240|EXCLUDE|E2|youth mental disorder burden in Europe; no online exposure
+S241|INCLUDE||surveillance technologies in inpatient mental health settings
+S242|INCLUDE||body-worn cameras on mental health wards
+S243|INCLUDE||GPS tracking for people with dementia, privacy and autonomy
+S244|INCLUDE||electronic tracking in dementia care, ethics literature
+S245|INCLUDE||online peer support for people with ALS; access barriers from symptoms
+S246|INCLUDE||social media in hearing loss and tinnitus; misinformation
+S247|INCLUDE||privacy and security of web services for disabled people (preprint)
+S248|INCLUDE||online information search by people with MS; low-quality information
+S249|INCLUDE||surveillance technology for suicide prevention in public spaces
+S250|INCLUDE||safety failures of generative AI mental health chatbots incl. missed suicidal ideation (safety, not efficacy)
+S251|INCLUDE||misinformation in mental health and neurodivergence content on social media
+S252|UNCLEAR||barriers to telerehabilitation and remote consultation incl. symptoms hampering use; accessibility of online care or E4-type clinical tool
+S253|INCLUDE||functional tic-like behaviours and social media content
+S254|INCLUDE||internet gaming disorder and anxiety, depression, ADHD
+S255|INCLUDE||epilepsy on social media: misinformation, derogatory posts
+S256|INCLUDE||internet use by people with ME/CFS
+S257|INCLUDE||social media video captions for deaf and hard-of-hearing and neurodivergent viewers

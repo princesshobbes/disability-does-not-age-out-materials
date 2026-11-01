@@ -1,0 +1,1544 @@
+[
+ {
+  "id": "S001",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "ADHD symptoms and digital media/problematic use synthesized longitudinally."
+ },
+ {
+  "id": "S002",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "ADHD-related symptoms linked to social media use in adolescents."
+ },
+ {
+  "id": "S003",
+  "decision": "EXCLUDE",
+  "code": "E1",
+  "reason": "Dark pattern effects by age or politics; no tracked condition."
+ },
+ {
+  "id": "S004",
+  "decision": "EXCLUDE",
+  "code": "E1",
+  "reason": "Attention capture patterns and digital wellbeing only; no tracked condition."
+ },
+ {
+  "id": "S005",
+  "decision": "EXCLUDE",
+  "code": "E1",
+  "reason": "Compares cognitive/affective functions and impulsivity traits between CBSD and PSNU; no tracked condition linked."
+ },
+ {
+  "id": "S006",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "CBSD treatment studies; none addressed online buying."
+ },
+ {
+  "id": "S007",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Loot boxes linked to problem gambling and problem gaming."
+ },
+ {
+  "id": "S008",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Microtransactions linked to gambling disorder and IGD."
+ },
+ {
+  "id": "S009",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "ADHD associated with gaming disorder."
+ },
+ {
+  "id": "S010",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Micro-transactions linked to problem gambling."
+ },
+ {
+  "id": "S011",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "ADHD symptoms associated with IGD in adults."
+ },
+ {
+  "id": "S012",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Comorbidity rates of ADHD and internet addiction synthesized."
+ },
+ {
+  "id": "S013",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Laboratory gambling tasks in ADHD; no online exposure."
+ },
+ {
+  "id": "S014",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Internet addiction among behavioural addictions comorbid with bipolar disorder."
+ },
+ {
+  "id": "S015",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Internet addiction related to ADHD, depression and other comorbidities in adolescents."
+ },
+ {
+  "id": "S016",
+  "decision": "EXCLUDE",
+  "code": "E1",
+  "reason": "Personality traits as predictors of behavioural addictions; traits only."
+ },
+ {
+  "id": "S017",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problematic AI use associated with depression and social anxiety."
+ },
+ {
+  "id": "S018",
+  "decision": "EXCLUDE",
+  "code": "E3",
+  "reason": "Maps dark patterns in online gambling; no finding linking them to gambling problems."
+ },
+ {
+  "id": "S019",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "Gambling advertising (partly digital) and gambling, stronger in higher-risk gamblers; online exposure status unclear."
+ },
+ {
+  "id": "S020",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Short-form video use associated with inattention, anxiety and depression."
+ },
+ {
+  "id": "S021",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Synthesizes social media use and its social effects among autistic and ADHD people."
+ },
+ {
+  "id": "S022",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Cyberbullying and problematic social media use among autistic and ADHD people synthesized."
+ },
+ {
+  "id": "S023",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Digital media use linked to ADHD symptoms in adults."
+ },
+ {
+  "id": "S024",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Escapist gaming linked to poor mental health and anxious individuals."
+ },
+ {
+  "id": "S025",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Psychiatric comorbidities (ADHD, anxiety, depression) of problematic gaming."
+ },
+ {
+  "id": "S026",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Depressive, inattentive and anxiety symptoms reciprocally associated with gaming disorder."
+ },
+ {
+  "id": "S027",
+  "decision": "EXCLUDE",
+  "code": "E3",
+  "reason": "Face validity of gaming disorder screening tools; scale evaluation only."
+ },
+ {
+  "id": "S028",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "Sports betting correlates with gambling disorder and psychopathology; online form not stated."
+ },
+ {
+  "id": "S029",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Gambling-like gaming activities and online betting linked to problem gambling."
+ },
+ {
+  "id": "S030",
+  "decision": "EXCLUDE",
+  "code": "E3",
+  "reason": "Prevalence of problematic online gambling in general adolescent samples; no condition analysis."
+ },
+ {
+  "id": "S031",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Loot boxes and esports betting linked to problem gambling and mental distress."
+ },
+ {
+  "id": "S032",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Internet addiction and online gambling associated with mood disorders."
+ },
+ {
+  "id": "S033",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Substance use co-occurrence among people with IGD/GD."
+ },
+ {
+  "id": "S034",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Gaming disorder co-occurs with alcohol use disorder and other addictions."
+ },
+ {
+  "id": "S035",
+  "decision": "EXCLUDE",
+  "code": "E1",
+  "reason": "BNPL impulsive buying and regret/wellbeing; no tracked condition."
+ },
+ {
+  "id": "S036",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use linked to depression and anxiety."
+ },
+ {
+  "id": "S037",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use linked to depressive and anxiety symptoms in youth."
+ },
+ {
+  "id": "S038",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problematic social media use associated with depression and anxiety."
+ },
+ {
+  "id": "S039",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use correlates with depression, anxiety and distress."
+ },
+ {
+  "id": "S040",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "SNS use associated with depressive and anxiety symptoms."
+ },
+ {
+  "id": "S041",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Depression, anxiety and social anxiety as risk factors for PSNU."
+ },
+ {
+  "id": "S042",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problematic SNS use associated with depression, anxiety, ADHD and OCD."
+ },
+ {
+  "id": "S043",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use associations with adolescent anxiety synthesized."
+ },
+ {
+  "id": "S044",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "Vicarious trauma from extremist content, largely occupational; whether online exposure in ordinary use was synthesized is unclear."
+ },
+ {
+  "id": "S045",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Indirect trauma exposure via work-related media; no online exposure."
+ },
+ {
+  "id": "S046",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Doomscrolling associated with anxiety and depression."
+ },
+ {
+  "id": "S047",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Doomscrolling associated with anxiety, depression and distress."
+ },
+ {
+  "id": "S048",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Stress, anxiety and depression as factors in doomscrolling."
+ },
+ {
+  "id": "S049",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Doomscrolling predicts psychological distress and anxiety in workers."
+ },
+ {
+  "id": "S050",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Cyberchondria linked to health anxiety and depression."
+ },
+ {
+  "id": "S051",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Cyberchondria associated with health anxiety and OCD."
+ },
+ {
+  "id": "S052",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Cyberchondria associated with OC, depressive and anxiety symptoms."
+ },
+ {
+  "id": "S053",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Reassurance-seeking in anxiety/OCD; no online exposure."
+ },
+ {
+  "id": "S054",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Online health research associated with health anxiety."
+ },
+ {
+  "id": "S055",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Emotional reliance on AI companions and mental health implications including fatal outcomes."
+ },
+ {
+  "id": "S056",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "Mental health chatbot handling of suicide/self-harm risk; simulation evidence, link to condition unclear."
+ },
+ {
+  "id": "S057",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Cyberbullying linked to depression, anxiety and suicidality; ASD victimization."
+ },
+ {
+  "id": "S058",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "Cyberbullying victimization linked to negative psychological outcomes; tracked condition not named."
+ },
+ {
+  "id": "S059",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Cybervictimization associated with depression, anxiety and suicidal behaviour."
+ },
+ {
+  "id": "S060",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Cyberbullying associated with suicidal ideation and self-harm."
+ },
+ {
+  "id": "S061",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Cyber stalking/harassment linked to depression, anxiety and suicidal ideation."
+ },
+ {
+  "id": "S062",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Digital harassment associated with depression, anxiety and PTSD symptoms."
+ },
+ {
+  "id": "S063",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Viewing self-harm images online linked to self-harm."
+ },
+ {
+  "id": "S064",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Online social networking linked to self-harm and suicidality."
+ },
+ {
+  "id": "S065",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Instagram use linked to deliberate self-harm."
+ },
+ {
+  "id": "S066",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Self-harm content on Instagram and effects on self-harm synthesized."
+ },
+ {
+  "id": "S067",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use and youth deliberate self-harm."
+ },
+ {
+  "id": "S068",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Viewing/sharing self-harm images online and self-harm."
+ },
+ {
+  "id": "S069",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media and NSSI among adolescents."
+ },
+ {
+  "id": "S070",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media used to discuss/view self-harm; harms and benefits."
+ },
+ {
+  "id": "S071",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Online mental health peer support forums and mental health impacts."
+ },
+ {
+  "id": "S072",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Online mental health peer support effects for young people (peer support, not E4)."
+ },
+ {
+  "id": "S073",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media markers differ between depressed and nondepressed people."
+ },
+ {
+  "id": "S074",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Bidirectional relationship between depression and social media use."
+ },
+ {
+  "id": "S075",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use and depression/anxiety in youth."
+ },
+ {
+  "id": "S076",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use linked to depression and anxiety in adults."
+ },
+ {
+  "id": "S077",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social anxiety associated with problematic social media use."
+ },
+ {
+  "id": "S078",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Stress and CBSD; online buying not addressed."
+ },
+ {
+  "id": "S079",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Risk factors compared between problematic and non-problematic online gamblers."
+ },
+ {
+  "id": "S080",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Depressive symptoms associated with problem gaming and gambling."
+ },
+ {
+  "id": "S081",
+  "decision": "EXCLUDE",
+  "code": "E1",
+  "reason": "AI companionship ethics and loneliness; no tracked condition."
+ },
+ {
+  "id": "S082",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "ChatGPT for mental health includes lay use risks and clinical pilots; linkage unclear."
+ },
+ {
+  "id": "S083",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "Generative AI applications in psychiatric care evaluated as clinical tools."
+ },
+ {
+  "id": "S084",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "Fraud victimization and anxiety/depression; online form not stated."
+ },
+ {
+  "id": "S085",
+  "decision": "EXCLUDE",
+  "code": "E1",
+  "reason": "Romance scam victim traits (neuroticism, impulsivity); no tracked condition."
+ },
+ {
+  "id": "S086",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use and adolescent depression and suicidality."
+ },
+ {
+  "id": "S087",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use correlates with depressive symptoms."
+ },
+ {
+  "id": "S088",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "Predictors of problematic smartphone/social media use include negative affectivity; tracked condition unclear."
+ },
+ {
+  "id": "S089",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Mobile technology/social media use and depression in adolescents."
+ },
+ {
+  "id": "S090",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problematic smartphone use related to anxiety severity."
+ },
+ {
+  "id": "S091",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problematic smartphone use related to depression and anxiety."
+ },
+ {
+  "id": "S092",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "Online disclosure by victimization survivors; tracked condition and link unclear."
+ },
+ {
+  "id": "S093",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "Online disclosure of sexual victimization; tracked condition and link unclear."
+ },
+ {
+  "id": "S094",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Self-harm and suicide content online and its effects."
+ },
+ {
+  "id": "S095",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Device use, cyber-victimisation, sleep and mental health."
+ },
+ {
+  "id": "S096",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Comorbidity factors related to problem online gambling."
+ },
+ {
+  "id": "S097",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "Disordered gambling risk factors incl. trauma and comorbidity; online mode not clear."
+ },
+ {
+  "id": "S098",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Childhood maltreatment linked to vulnerability to online harm."
+ },
+ {
+  "id": "S099",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Childhood maltreatment and adult revictimization; no online exposure."
+ },
+ {
+  "id": "S100",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Dating app use linked to body image, eating disorder and mental health outcomes."
+ },
+ {
+  "id": "S101",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problematic online dating correlated with mood problems and anxiety."
+ },
+ {
+  "id": "S102",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "SNS use related to depression and anxiety."
+ },
+ {
+  "id": "S103",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problematic TikTok use linked to anxiety and depression."
+ },
+ {
+  "id": "S104",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "COVID news consumption, notably on social media, linked to distress."
+ },
+ {
+  "id": "S105",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Online peer-to-peer support for youth with mental health problems."
+ },
+ {
+  "id": "S106",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "In-person peer worker support trials; not online."
+ },
+ {
+  "id": "S107",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "Digital detox effects on health and wellbeing; tracked condition unclear."
+ },
+ {
+  "id": "S108",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Cyberchondria and health anxiety antecedents/consequences."
+ },
+ {
+  "id": "S109",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problematic smartphone use correlated with depression and anxiety."
+ },
+ {
+  "id": "S110",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use linked to body image and eating disorder symptoms."
+ },
+ {
+  "id": "S111",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use linked to body image concerns and eating disorders."
+ },
+ {
+  "id": "S112",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use associated with eating disorders in young adults."
+ },
+ {
+  "id": "S113",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use linked to orthorexia and muscle dysmorphia symptoms."
+ },
+ {
+  "id": "S114",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Highly visual social media linked to eating disorders."
+ },
+ {
+  "id": "S115",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use correlated with depressive and disordered eating symptoms."
+ },
+ {
+  "id": "S116",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use and eating disorder psychopathology."
+ },
+ {
+  "id": "S117",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "SNS use associated with body image and disordered eating."
+ },
+ {
+  "id": "S118",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use and eating disorders in adolescents."
+ },
+ {
+  "id": "S119",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media peer influence on eating incl. eating disorder forums."
+ },
+ {
+  "id": "S120",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use during eating disorder recovery; harms and benefits."
+ },
+ {
+  "id": "S121",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Appearance-focused social media among eating disorder risk factors."
+ },
+ {
+  "id": "S122",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Bidirectional relationship between orthorexia and social media."
+ },
+ {
+  "id": "S123",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media addiction linked to body dysmorphia and eating disorders."
+ },
+ {
+  "id": "S124",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use in psychosis, body dysmorphia and eating disorders."
+ },
+ {
+  "id": "S125",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Pro-ana/pro-mia websites and eating disorders."
+ },
+ {
+  "id": "S126",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Fitspiration exposure and body dissatisfaction and negative mood."
+ },
+ {
+  "id": "S127",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Pro-eating disorder websites maintain eating disorder symptoms."
+ },
+ {
+  "id": "S128",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Viewing pro-ED websites linked to ED outcomes."
+ },
+ {
+  "id": "S129",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Internet and social media use associated with body image and eating concerns."
+ },
+ {
+  "id": "S130",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "TikTok content effects on eating disorders and body image."
+ },
+ {
+  "id": "S131",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Eating-related social media content linked to disordered eating."
+ },
+ {
+  "id": "S132",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media linked to body dissatisfaction and appearance anxiety."
+ },
+ {
+  "id": "S133",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "AI beauty filters linked to body dissatisfaction and appearance anxiety."
+ },
+ {
+  "id": "S134",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "Diet/fitness app use and disordered eating; whether these apps are a tracked online exposure is unclear."
+ },
+ {
+  "id": "S135",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "Fitness/diet tracker use and disordered eating; tracked exposure unclear."
+ },
+ {
+  "id": "S136",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "Health-tracking technologies and disordered eating; tracked exposure unclear."
+ },
+ {
+  "id": "S137",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "Content analysis of eating disorder treatment apps."
+ },
+ {
+  "id": "S138",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problematic smartphone use and screen time linked to ED psychopathology."
+ },
+ {
+  "id": "S139",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "AI-personalised clinical interventions for eating disorders."
+ },
+ {
+  "id": "S140",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Anti-obesity public health messages; not online."
+ },
+ {
+  "id": "S141",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "SNS use linked to body image dissatisfaction and BDD symptoms."
+ },
+ {
+  "id": "S142",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use predicts body image and disordered eating in children."
+ },
+ {
+  "id": "S143",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "Social media-delivered body image interventions evaluated for effect."
+ },
+ {
+  "id": "S144",
+  "decision": "EXCLUDE",
+  "code": "E1",
+  "reason": "Mukbang effects on appetite and wellbeing; no tracked condition."
+ },
+ {
+  "id": "S145",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Eating disorder relapse experiences; no online exposure."
+ },
+ {
+  "id": "S146",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "CBSD and disordered eating; online buying not addressed."
+ },
+ {
+  "id": "S147",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media engagement linked to body dissatisfaction and disordered eating."
+ },
+ {
+  "id": "S148",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Instagram use linked to body image, disordered eating and mental health."
+ },
+ {
+  "id": "S149",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Photo-editing on social media and body concerns (mixed findings)."
+ },
+ {
+  "id": "S150",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Idealized SNS images increase body dissatisfaction."
+ },
+ {
+  "id": "S151",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Online ED content and eating disorder symptoms (qualitative)."
+ },
+ {
+  "id": "S152",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Pro-ana communities and eating disorder harm (qualitative)."
+ },
+ {
+  "id": "S153",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "People with ASD at greater risk of problematic video gaming."
+ },
+ {
+  "id": "S154",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Autism associated with gaming disorder and internet addiction."
+ },
+ {
+  "id": "S155",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Autism associated with problematic internet use and gaming disorder."
+ },
+ {
+  "id": "S156",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "PIU higher in ASD versus comparison groups."
+ },
+ {
+  "id": "S157",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Online sexual exploitation of children with disabilities."
+ },
+ {
+  "id": "S158",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Cyberbullying victimisation rates among people with intellectual disabilities."
+ },
+ {
+  "id": "S159",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "CSEA education for young people with SEN; online form not addressed."
+ },
+ {
+  "id": "S160",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Child sexual abuse among children with disabilities; not online."
+ },
+ {
+  "id": "S161",
+  "decision": "EXCLUDE",
+  "code": "E3",
+  "reason": "Maps management of cyberbullying in neurodevelopmental disorders; no linking finding."
+ },
+ {
+  "id": "S162",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Cognitive decline as susceptibility factor for online fraud in older adults."
+ },
+ {
+  "id": "S163",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Financial exploitation of older adults; online form not addressed."
+ },
+ {
+  "id": "S164",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Financial exploitation in dementia; not online."
+ },
+ {
+  "id": "S165",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Interventions for financial vulnerability in dementia; not online."
+ },
+ {
+  "id": "S166",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Media-reported psychiatric harms (suicide, psychosis) linked to AI chatbots."
+ },
+ {
+  "id": "S167",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Conversational AI as amplifier of delusions in psychosis."
+ },
+ {
+  "id": "S168",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use and symptoms in schizophrenia/psychosis."
+ },
+ {
+  "id": "S169",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Online social networking use by people with psychosis."
+ },
+ {
+  "id": "S170",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "Online and mobile psychosis treatment interventions."
+ },
+ {
+  "id": "S171",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use and emergence of psychotic symptoms."
+ },
+ {
+  "id": "S172",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Online social networking in psychosis compared with controls."
+ },
+ {
+  "id": "S173",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Internet use risks and benefits for people with intellectual disability."
+ },
+ {
+  "id": "S174",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "Online peer networking interventions in psychosis; outcomes isolation/QoL; R3 unclear."
+ },
+ {
+  "id": "S175",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "ICT use, risks and access gaps among people with psychotic disorders."
+ },
+ {
+  "id": "S176",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social internet use by people with intellectual disabilities synthesized."
+ },
+ {
+  "id": "S177",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Internet access limits and control for people with intellectual disability."
+ },
+ {
+  "id": "S178",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use, safety and accessibility barriers for people with ID."
+ },
+ {
+  "id": "S179",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Online safety risks (scams, distress) in dementia/MCI."
+ },
+ {
+  "id": "S180",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Smartphone/tablet use and cognition in older adults with cognitive impairment; accessibility barriers."
+ },
+ {
+  "id": "S181",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use, risks and barriers for people with TBI."
+ },
+ {
+  "id": "S182",
+  "decision": "EXCLUDE",
+  "code": "E3",
+  "reason": "Inventory of social media skills training resources for ABI; no linking finding."
+ },
+ {
+  "id": "S183",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "Dyslexia and online learning; whether online learning counts as tracked exposure is unclear."
+ },
+ {
+  "id": "S184",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Easy-read materials for ID; no online exposure."
+ },
+ {
+  "id": "S185",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Cognitive impairment and exploitation; online form not addressed."
+ },
+ {
+  "id": "S186",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Gaming addiction explains high video game use in ASD."
+ },
+ {
+  "id": "S187",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Autism and online dating challenges and safety."
+ },
+ {
+  "id": "S188",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "ICT use benefits and drawbacks for autistic people."
+ },
+ {
+  "id": "S189",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media experience of autistic people."
+ },
+ {
+  "id": "S190",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "Social media-delivered interventions for autistic individuals."
+ },
+ {
+  "id": "S191",
+  "decision": "EXCLUDE",
+  "code": "E3",
+  "reason": "Review of healthcare conversational agents for cognitive disability; no linking finding."
+ },
+ {
+  "id": "S192",
+  "decision": "EXCLUDE",
+  "code": "E3",
+  "reason": "Methods for assessing chatbot quality for disabled users; no linking finding."
+ },
+ {
+  "id": "S193",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Web accessibility barriers for people with cognitive disabilities."
+ },
+ {
+  "id": "S194",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use, bullying and inaccessibility for adults with ID."
+ },
+ {
+  "id": "S195",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Internet use for sexual purposes by adults with ID; risks and barriers."
+ },
+ {
+  "id": "S196",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Sexual abuse prevention programs for mild ID; not online."
+ },
+ {
+  "id": "S197",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Autism and gambling tasks; no online exposure."
+ },
+ {
+  "id": "S198",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Sexual violence among autistic individuals; not online."
+ },
+ {
+  "id": "S199",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Virtual social contact via ICT for people with ID; barriers and effects."
+ },
+ {
+  "id": "S200",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Neurodivergence and violent extremism; online form not addressed."
+ },
+ {
+  "id": "S201",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Cognitive decline as factor in older adults' online health misinformation susceptibility."
+ },
+ {
+  "id": "S202",
+  "decision": "EXCLUDE",
+  "code": "E3",
+  "reason": "Quality review of dementia chatbots; no linking finding."
+ },
+ {
+  "id": "S203",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Financial abuse in IDD; not online."
+ },
+ {
+  "id": "S204",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "GBD mental disorder burden; no online exposure."
+ },
+ {
+  "id": "S205",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "GBD mental disorder burden; no online exposure."
+ },
+ {
+  "id": "S206",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "GBD ADHD burden; no online exposure."
+ },
+ {
+  "id": "S207",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "GBD youth mental disorder prevalence; no online exposure."
+ },
+ {
+  "id": "S208",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "GBD anxiety burden; bullying not online."
+ },
+ {
+  "id": "S209",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "GBD depression burden; no online exposure."
+ },
+ {
+  "id": "S210",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "GBD schizophrenia burden; no online exposure."
+ },
+ {
+  "id": "S211",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "ADHD long-term outcomes; no online exposure."
+ },
+ {
+  "id": "S212",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "ADHD meta-review; no online exposure."
+ },
+ {
+  "id": "S213",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Risks of undiagnosed ADHD/autism; no online exposure."
+ },
+ {
+  "id": "S214",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "ADHD in adult women; no online exposure."
+ },
+ {
+  "id": "S215",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Autism prevalence; no online exposure."
+ },
+ {
+  "id": "S216",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "GBD autism burden; no online exposure."
+ },
+ {
+  "id": "S217",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "GBD autism burden; no online exposure."
+ },
+ {
+  "id": "S218",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "ASD comorbidity prevalence; no online exposure."
+ },
+ {
+  "id": "S219",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Psychiatric comorbidity in ASD; no online exposure."
+ },
+ {
+  "id": "S220",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "OCD prevalence; no online exposure."
+ },
+ {
+  "id": "S221",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "GBD bipolar burden; no online exposure."
+ },
+ {
+  "id": "S222",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Eating disorder prevalence; no online exposure."
+ },
+ {
+  "id": "S223",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "GBD intellectual disability prevalence; no online exposure."
+ },
+ {
+  "id": "S224",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "ID/DD prevalence; no online exposure."
+ },
+ {
+  "id": "S225",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Developmental disability prevalence; no online exposure."
+ },
+ {
+  "id": "S226",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "GBD dementia prevalence; no online exposure."
+ },
+ {
+  "id": "S227",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "GBD dementia burden; no online exposure."
+ },
+ {
+  "id": "S228",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "GBD early-onset dementia; no online exposure."
+ },
+ {
+  "id": "S229",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "GBD substance use disorder burden; no online exposure."
+ },
+ {
+  "id": "S230",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "GBD alcohol and drug burden; no online exposure."
+ },
+ {
+  "id": "S231",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "GBD youth SUD burden; no online exposure."
+ },
+ {
+  "id": "S232",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Cyberbullying prevalence among children with neurodevelopmental disorders vs peers."
+ },
+ {
+  "id": "S233",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use by people with disabilities incl. cyberbullying and accessibility."
+ },
+ {
+  "id": "S234",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Digital exclusion and participation of people with ID during COVID-19."
+ },
+ {
+  "id": "S235",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Cyber-victimization of people with disabilities and its mental health impact."
+ },
+ {
+  "id": "S236",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Transition services for young people with disabilities; no online exposure."
+ },
+ {
+  "id": "S237",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Bullying of DHH children; online form not addressed."
+ },
+ {
+  "id": "S238",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "CSA among children with disabilities; online abuse mentioned as emerging risk, unclear if synthesized."
+ },
+ {
+  "id": "S239",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "European mental disorder burden; no online exposure."
+ },
+ {
+  "id": "S240",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "GBD youth mental disorder burden in Europe; no online exposure."
+ },
+ {
+  "id": "S241",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "Surveillance technologies in inpatient mental health settings and self-harm; whether this counts as tracked exposure is unclear."
+ },
+ {
+  "id": "S242",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "Body-worn cameras in mental health wards; tracked exposure and condition link unclear."
+ },
+ {
+  "id": "S243",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "GPS tracking and privacy/autonomy perceptions of people with dementia."
+ },
+ {
+  "id": "S244",
+  "decision": "EXCLUDE",
+  "code": "E3",
+  "reason": "Normative ethics arguments on tracking devices in dementia; no empirical linking finding."
+ },
+ {
+  "id": "S245",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Online peer support for people with ALS; benefits and access barriers."
+ },
+ {
+  "id": "S246",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use and misinformation for hearing loss, tinnitus, vestibular disorders."
+ },
+ {
+  "id": "S247",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Online privacy, security and accessibility concerns of disabled users."
+ },
+ {
+  "id": "S248",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "Online information seeking by people with MS; route to harm unclear."
+ },
+ {
+  "id": "S249",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "Surveillance technology for suicide prevention in public spaces; tracked exposure unclear."
+ },
+ {
+  "id": "S250",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "Safety mechanisms in purpose-built GenAI mental health chatbot interventions."
+ },
+ {
+  "id": "S251",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "Misinformation in mental health/neurodivergence social media content; link to people with conditions unclear."
+ },
+ {
+  "id": "S252",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "Clinical technologies (telerehabilitation, remote monitoring) for Parkinson's management."
+ },
+ {
+  "id": "S253",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media exposure linked to functional tic-like behaviours."
+ },
+ {
+  "id": "S254",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "IGD associated with anxiety, depression, ADHD and OCD symptoms."
+ },
+ {
+  "id": "S255",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "Epilepsy content on social media with misinformation and derogatory posts; link to people with epilepsy unclear."
+ },
+ {
+  "id": "S256",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Internet use and online support among people with ME/CFS."
+ },
+ {
+  "id": "S257",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media caption accessibility for DHH and neurodivergent viewers."
+ }
+]

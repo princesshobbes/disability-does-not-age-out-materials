@@ -1,0 +1,1100 @@
+[
+ {
+  "id": "M001",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "ADHD diagnosis compared with controls on problematic internet/digital media use (pooled)."
+ },
+ {
+  "id": "M002",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "ADHD symptomatology pooled correlation with problematic social media use."
+ },
+ {
+  "id": "M003",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "ADHD-related symptoms pooled association with problematic internet use."
+ },
+ {
+  "id": "M004",
+  "decision": "EXCLUDE",
+  "code": "E1",
+  "reason": "Impulsivity (trait) and over-indebtedness; no tracked condition."
+ },
+ {
+  "id": "M005",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problem gambling symptoms pooled correlation with loot box spending."
+ },
+ {
+  "id": "M006",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "ADHD symptoms pooled association with gaming disorder severity."
+ },
+ {
+  "id": "M007",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "Video game intervention for ADHD evaluated for efficacy in RCTs."
+ },
+ {
+  "id": "M008",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "ADHD/autism prevalence in gambling harm; online gambling not indicated."
+ },
+ {
+  "id": "M009",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "ADHD and problem gambling; no online exposure indicated."
+ },
+ {
+  "id": "M010",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "ADHD pooled association with internet addiction."
+ },
+ {
+  "id": "M011",
+  "decision": "EXCLUDE",
+  "code": "E3",
+  "reason": "Neuroimaging of IGD and ADHD vs controls; no pooled link between ADHD and gaming."
+ },
+ {
+  "id": "M012",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "ADHD and delay discounting tasks; no online exposure."
+ },
+ {
+  "id": "M013",
+  "decision": "EXCLUDE",
+  "code": "E3",
+  "reason": "HEXACO traits correlated with SUD and behavioral addictions; no link between condition and exposure."
+ },
+ {
+  "id": "M014",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Short-form video use pooled association with poorer mental health incl. anxiety."
+ },
+ {
+  "id": "M015",
+  "decision": "EXCLUDE",
+  "code": "E1",
+  "reason": "Gaming motivations vs gaming disorder symptoms; no tracked condition."
+ },
+ {
+  "id": "M016",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problematic internet use pooled as risk factor for bipolar disorder."
+ },
+ {
+  "id": "M017",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "Smartphone-based interventions for bipolar disorder evaluated for efficacy."
+ },
+ {
+  "id": "M018",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "Smartphone interventions and monitoring for bipolar disorder evaluated for efficacy."
+ },
+ {
+  "id": "M019",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problematic social media use pooled correlation with depression, anxiety, stress."
+ },
+ {
+  "id": "M020",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problematic social media use pooled correlation with depression and distress."
+ },
+ {
+  "id": "M021",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "SNS use pooled association with depression symptoms."
+ },
+ {
+  "id": "M022",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social anxiety pooled correlation with problematic social media use."
+ },
+ {
+  "id": "M023",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problematic social networking use pooled association with anxiety symptoms."
+ },
+ {
+  "id": "M024",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problematic social media use pooled association with depression."
+ },
+ {
+  "id": "M025",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use pooled association with depression and anxiety."
+ },
+ {
+  "id": "M026",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Adolescent social media use pooled correlation with depressive symptoms."
+ },
+ {
+  "id": "M027",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problematic Facebook use pooled correlation with psychological distress (depression, anxiety)."
+ },
+ {
+  "id": "M028",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social networking addiction pooled correlation with depression, anxiety, stress."
+ },
+ {
+  "id": "M029",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use meta-analysed against depression and mental disorders."
+ },
+ {
+  "id": "M030",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problematic Instagram use pooled correlation with depression and anxiety."
+ },
+ {
+  "id": "M031",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problematic internet use pooled correlation with social anxiety."
+ },
+ {
+  "id": "M032",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Time on social media during COVID pooled association with anxiety and depression."
+ },
+ {
+  "id": "M033",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media addiction pooled correlation with anxiety and depression."
+ },
+ {
+  "id": "M034",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use pooled with internalizing symptoms in clinical and community adolescents."
+ },
+ {
+  "id": "M035",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social anxiety linked to problematic social media use via pooled MASEM."
+ },
+ {
+  "id": "M036",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "RCTs reducing social media use pooled effect on depressive symptoms."
+ },
+ {
+  "id": "M037",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problematic internet use pooled association with depressive symptoms and anxiety."
+ },
+ {
+  "id": "M038",
+  "decision": "EXCLUDE",
+  "code": "E1",
+  "reason": "Social media use vs subjective/psychological well-being only."
+ },
+ {
+  "id": "M039",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "SNS time, checking and social comparison pooled association with depression."
+ },
+ {
+  "id": "M040",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "Charted summary only: FoMO linked to SNS use and to depression/anxiety; direct condition-SNS link unclear."
+ },
+ {
+  "id": "M041",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use pooled correlation with social anxiety."
+ },
+ {
+  "id": "M042",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "Mass trauma media viewing and PTSD; mainly TV but combined media forms pooled, online part unclear."
+ },
+ {
+  "id": "M043",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Health anxiety pooled correlation with online health information seeking and cyberchondria."
+ },
+ {
+  "id": "M044",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Cyberchondria (health-related internet use) pooled association with health anxiety."
+ },
+ {
+  "id": "M045",
+  "decision": "EXCLUDE",
+  "code": "E1",
+  "reason": "Intolerance of uncertainty vs cyberchondria; no tracked condition."
+ },
+ {
+  "id": "M046",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "Internet-based CBT for OCD evaluated for efficacy."
+ },
+ {
+  "id": "M047",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "Acceptability of internet-delivered CBT for OCD (online treatment)."
+ },
+ {
+  "id": "M048",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Cyberbullying victimization pooled ORs for depression, suicidality, self-harm."
+ },
+ {
+  "id": "M049",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Cyberbullying victimization pooled associations with stress and suicidal ideation."
+ },
+ {
+  "id": "M050",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Cyberbullying victimization pooled correlation with depression."
+ },
+ {
+  "id": "M051",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Peer victimization incl. cyberbullying pooled association with suicidal ideation and attempts."
+ },
+ {
+  "id": "M052",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Cybervictimization pooled ORs for self-harm and suicidal behaviours."
+ },
+ {
+  "id": "M053",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Cyberbullying victimisation linked to depression/anxiety and NSSI/suicidality via MASEM."
+ },
+ {
+  "id": "M054",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Cyber-victimization pooled odds of depression in adolescents."
+ },
+ {
+  "id": "M055",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Cyberbullying victimization longitudinally pooled with mental health symptoms."
+ },
+ {
+  "id": "M056",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Cyber victimization pooled effects on depression and anxiety."
+ },
+ {
+  "id": "M057",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Bidirectional pooled paths between cyberbullying victimization and depression."
+ },
+ {
+  "id": "M058",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Cybervictimization pooled correlations with anxiety and depression."
+ },
+ {
+  "id": "M059",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Longitudinal pooled links of cybervictimization with depression and anxiety."
+ },
+ {
+  "id": "M060",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Depression pooled as predictor of cyberbullying perpetration."
+ },
+ {
+  "id": "M061",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social anxiety pooled correlation with cyberbullying victimization subgroup."
+ },
+ {
+  "id": "M062",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media constructs incl. cybervictimization pooled with self-injurious thoughts and behaviours."
+ },
+ {
+  "id": "M063",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problematic smartphone use pooled risk of depression and anxiety."
+ },
+ {
+  "id": "M064",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problematic smartphone use pooled odds of depression and anxiety in young people."
+ },
+ {
+  "id": "M065",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Digital peer support pooled effects on depression and anxiety in people with mental health conditions."
+ },
+ {
+  "id": "M066",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Childhood trauma pooled correlation with internet addiction."
+ },
+ {
+  "id": "M067",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Childhood trauma pooled correlation with problematic internet use."
+ },
+ {
+  "id": "M068",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Adverse childhood experiences (trauma) pooled correlation with internet addiction."
+ },
+ {
+  "id": "M069",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Charted summary: social anxiety correlated with gaming time and problematic internet use."
+ },
+ {
+  "id": "M070",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social anxiety pooled correlation with SNS use."
+ },
+ {
+  "id": "M071",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Pooled problematic gambling prevalence by activity, highest for online casino gambling."
+ },
+ {
+  "id": "M072",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Internet gambling pooled as risk factor for problem gambling."
+ },
+ {
+  "id": "M073",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "Commercial mental health chatbots tested as treatment adjuncts in RCTs."
+ },
+ {
+  "id": "M074",
+  "decision": "EXCLUDE",
+  "code": "E1",
+  "reason": "Algorithmic recommendation audits; no tracked condition."
+ },
+ {
+  "id": "M075",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "Internet-delivered CBT for anxiety and depression efficacy."
+ },
+ {
+  "id": "M076",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "Internet-delivered transdiagnostic treatment efficacy."
+ },
+ {
+  "id": "M077",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "Therapist-supported internet CBT vs face-to-face efficacy."
+ },
+ {
+  "id": "M078",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "Long-term efficacy of internet-delivered CBT."
+ },
+ {
+  "id": "M079",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "Internet-delivered psychological treatment add-on efficacy."
+ },
+ {
+  "id": "M080",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "Remote/internet CBT for social anxiety disorder efficacy."
+ },
+ {
+  "id": "M081",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "Internet-based CBT for depression efficacy (IPD NMA)."
+ },
+ {
+  "id": "M082",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Co-rumination and depressive symptoms; no online exposure."
+ },
+ {
+  "id": "M083",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "Co-rumination and depressive symptoms with co-rumination modality moderator; online component unclear."
+ },
+ {
+  "id": "M084",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "Internet- and mobile-based interventions for panic/agoraphobia efficacy."
+ },
+ {
+  "id": "M085",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "Digital CBT for panic disorder and agoraphobia efficacy."
+ },
+ {
+  "id": "M086",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Image-based sexual abuse prevalence with synthesized links to anxiety and depression in victims."
+ },
+ {
+  "id": "M087",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Peer victimization (online not indicated) and suicidal ideation."
+ },
+ {
+  "id": "M088",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Peer cybervictimization pooled with internalizing problems incl. depression, anxiety."
+ },
+ {
+  "id": "M089",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Time on social media pooled dose-response with depression risk."
+ },
+ {
+  "id": "M090",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use pooled with depressive symptoms and anxiety."
+ },
+ {
+  "id": "M091",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problematic smartphone use pooled with anxiety and depression."
+ },
+ {
+  "id": "M092",
+  "decision": "EXCLUDE",
+  "code": "E1",
+  "reason": "Intolerance of uncertainty trend vs phone/internet penetration; no tracked condition measured."
+ },
+ {
+  "id": "M093",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Gaming disorder pooled longitudinal links with depression and anxiety."
+ },
+ {
+  "id": "M094",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media risk exposure pooled association with mental disorders."
+ },
+ {
+  "id": "M095",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Screen use incl. social media and cyberbullying pooled with self-harm and suicidal behaviours."
+ },
+ {
+  "id": "M096",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Psychiatric comorbidity of gambling disorder; no online exposure indicated."
+ },
+ {
+  "id": "M097",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Charted summary: childhood maltreatment (trauma) pooled with cyberbullying victimization and perpetration."
+ },
+ {
+  "id": "M098",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Short-form video use pooled correlations with depression and anxiety."
+ },
+ {
+  "id": "M099",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problematic TikTok use pooled with depression and anxiety."
+ },
+ {
+  "id": "M100",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Peer support for mental illness incl. online peer support subgroup pooled on recovery."
+ },
+ {
+  "id": "M101",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Peer support interventions for mental illness; no online delivery indicated."
+ },
+ {
+  "id": "M102",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "Digital peer support in healthy people on mental health outcomes; tracked condition unclear (health conditions as moderator)."
+ },
+ {
+  "id": "M103",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Group peer support for mental health conditions; no online delivery indicated."
+ },
+ {
+  "id": "M104",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Mental symptoms pooled correlation with problematic internet use."
+ },
+ {
+  "id": "M105",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Online health information seeking pooled correlation with health anxiety."
+ },
+ {
+  "id": "M106",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Smartphone use pooled association with stress and anxiety."
+ },
+ {
+  "id": "M107",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Internet and smartphone addiction pooled odds of depression and anxiety."
+ },
+ {
+  "id": "M108",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problematic mobile phone use linked to anxiety and depression via MASEM."
+ },
+ {
+  "id": "M109",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Mobile phone addiction pooled correlation with anxiety and depression."
+ },
+ {
+  "id": "M110",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problematic smartphone use pooled with depressive symptoms and suicidal ideation."
+ },
+ {
+  "id": "M111",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Online social comparison pooled with body image concerns and eating disorder symptoms."
+ },
+ {
+  "id": "M112",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use pooled with body image concerns and eating symptoms."
+ },
+ {
+  "id": "M113",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "SNS use pooled correlation with disordered eating behaviours."
+ },
+ {
+  "id": "M114",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problematic internet use pooled with eating disorder psychopathology."
+ },
+ {
+  "id": "M115",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Social comparison and disordered eating; online context not indicated."
+ },
+ {
+  "id": "M116",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "Internet-based programs to reduce eating disorder symptoms, efficacy."
+ },
+ {
+  "id": "M117",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use pooled correlation with body image disturbance."
+ },
+ {
+  "id": "M118",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use/addiction pooled correlation with BDD symptoms."
+ },
+ {
+  "id": "M119",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media use pooled with disordered eating in adolescents."
+ },
+ {
+  "id": "M120",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Pro-eating disorder website exposure pooled effects on body image and eating pathology."
+ },
+ {
+  "id": "M121",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Media incl. social media pooled with body image and eating disorder outcomes, moderated by media type."
+ },
+ {
+  "id": "M122",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "SNS use pooled with thin-ideal internalization framed as body image disturbance."
+ },
+ {
+  "id": "M123",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Lab exposure to ideal physique media images; online exposure not indicated."
+ },
+ {
+  "id": "M124",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media exposure synthesized with body dysmorphic disorder symptoms."
+ },
+ {
+  "id": "M125",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "BDD prevalence in cosmetic surgery patients; no online exposure."
+ },
+ {
+  "id": "M126",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "BDD prevalence in plastic surgery; no online exposure."
+ },
+ {
+  "id": "M127",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "BDD prevalence; no online exposure."
+ },
+ {
+  "id": "M128",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "Smartphone app interventions for eating disorders, RCT efficacy."
+ },
+ {
+  "id": "M129",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Weight-related self-monitoring and ED symptoms; online/app use not indicated."
+ },
+ {
+  "id": "M130",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problematic internet use pooled as predictor of eating disorders."
+ },
+ {
+  "id": "M131",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Pooled prevalence of pathological internet use among people with eating disorders."
+ },
+ {
+  "id": "M132",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Social media appearance-ideal images pooled effects on body image (dissatisfaction)."
+ },
+ {
+  "id": "M133",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "eHealth guided self-help for binge eating disorder efficacy."
+ },
+ {
+  "id": "M134",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "Internet CBT for binge spectrum eating disorders efficacy."
+ },
+ {
+  "id": "M135",
+  "decision": "EXCLUDE",
+  "code": "E4",
+  "reason": "Self-guided web/app interventions for eating disorders efficacy."
+ },
+ {
+  "id": "M136",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Autism/autistic traits pooled with problematic internet use and social media use."
+ },
+ {
+  "id": "M137",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Pooled prevalence of cyberbullying victimisation among autistic individuals."
+ },
+ {
+  "id": "M138",
+  "decision": "UNCLEAR",
+  "code": null,
+  "reason": "Social media interventions incl. online peer support in schizophrenia; two studies, E4 vs peer support and pooling unclear."
+ },
+ {
+  "id": "M139",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Digital technology use pooled with cognitive impairment and dementia risk in older adults."
+ },
+ {
+  "id": "M140",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Paranoia/schizotypy and conspiracy beliefs; no online exposure."
+ },
+ {
+  "id": "M141",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Pet-type companion robots for dementia; not an online exposure."
+ },
+ {
+  "id": "M142",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Socially assistive robots for dementia; pooled data only for non-online PARO robot."
+ },
+ {
+  "id": "M143",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Victimization in psychotic disorders; no online exposure."
+ },
+ {
+  "id": "M144",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Sexual abuse in adults with intellectual disability; no online exposure."
+ },
+ {
+  "id": "M145",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Neurodevelopmental/psychiatric conditions vs controls pooled odds of cyberbullying involvement."
+ },
+ {
+  "id": "M146",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Adult ADHD prevalence only; no online exposure."
+ },
+ {
+  "id": "M147",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "ADHD prevalence only; no online exposure."
+ },
+ {
+  "id": "M148",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Adult ADHD prevalence umbrella review; no online exposure."
+ },
+ {
+  "id": "M149",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Adult ADHD prevalence; no online exposure."
+ },
+ {
+  "id": "M150",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "ADHD prevalence in older adults; no online exposure."
+ },
+ {
+  "id": "M151",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "ADHD persistence; no online exposure."
+ },
+ {
+  "id": "M152",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "ADHD prevalence in clinical settings; no online exposure."
+ },
+ {
+  "id": "M153",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "ADHD prevalence in children; no online exposure."
+ },
+ {
+  "id": "M154",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Worldwide ADHD prevalence; no online exposure."
+ },
+ {
+  "id": "M155",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "DSM-IV ADHD prevalence; no online exposure."
+ },
+ {
+  "id": "M156",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Autism prevalence; no online exposure."
+ },
+ {
+  "id": "M157",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Autism prevalence; no online exposure."
+ },
+ {
+  "id": "M158",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "PTSD/CPTSD prevalence; no online exposure."
+ },
+ {
+  "id": "M159",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "OCD prevalence; no online exposure."
+ },
+ {
+  "id": "M160",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "OCD comorbidity in bipolar disorder; no online exposure."
+ },
+ {
+  "id": "M161",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Bipolar disorder prevalence; no online exposure."
+ },
+ {
+  "id": "M162",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Bipolar disorder prevalence; no online exposure."
+ },
+ {
+  "id": "M163",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Pediatric bipolar prevalence; no online exposure."
+ },
+ {
+  "id": "M164",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Schizophrenia prevalence; no online exposure."
+ },
+ {
+  "id": "M165",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Common mental disorder prevalence; no online exposure."
+ },
+ {
+  "id": "M166",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Child mental disorder prevalence; no online exposure."
+ },
+ {
+  "id": "M167",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Eating disorder prevalence; no online exposure."
+ },
+ {
+  "id": "M168",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Eating disorder burden estimates; no online exposure."
+ },
+ {
+  "id": "M169",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Intellectual disability prevalence; no online exposure."
+ },
+ {
+  "id": "M170",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Dementia prevalence; no online exposure."
+ },
+ {
+  "id": "M171",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Chronic illness/physical/sensory disability vs peers pooled odds of cyberbullying victimization."
+ },
+ {
+  "id": "M172",
+  "decision": "EXCLUDE",
+  "code": "E1",
+  "reason": "Fraud/scam prevalence in cognitively intact older adults; no tracked condition."
+ },
+ {
+  "id": "M173",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Sexual violence against people with disabilities; online form not indicated."
+ },
+ {
+  "id": "M174",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Undetected dementia prevalence; no online exposure."
+ },
+ {
+  "id": "M175",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Time to dementia diagnosis; no online exposure."
+ },
+ {
+  "id": "M176",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Diagnostic delay in bipolar disorder; no online exposure."
+ },
+ {
+  "id": "M177",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Duration of untreated bipolar disorder; no online exposure."
+ },
+ {
+  "id": "M178",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Unrecognized bipolar disorder in primary care; no online exposure."
+ },
+ {
+  "id": "M179",
+  "decision": "EXCLUDE",
+  "code": "E1",
+  "reason": "Online child sexual exploitation prevalence in general population; no tracked condition."
+ },
+ {
+  "id": "M180",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Child mental disorder prevalence in Europe; no online exposure."
+ },
+ {
+  "id": "M181",
+  "decision": "EXCLUDE",
+  "code": "E2",
+  "reason": "Reading skills in adults with dyslexia; no online exposure."
+ },
+ {
+  "id": "M182",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Internet addiction pooled with depression, anxiety and suicidal behaviour."
+ },
+ {
+  "id": "M183",
+  "decision": "INCLUDE",
+  "code": null,
+  "reason": "Problematic TikTok use pooled with depression and anxiety."
+ }
+]

@@ -1,0 +1,183 @@
+M001|INCLUDE||ADHD vs controls on problematic internet use
+M002|INCLUDE||ADHD symptoms and problematic social media use
+M003|INCLUDE||ADHD symptoms and problematic internet use
+M004|EXCLUDE|E1|impulsivity trait and over-indebtedness; no tracked condition
+M005|INCLUDE||problem gambling and loot box spending
+M006|INCLUDE||ADHD and gaming disorder
+M007|EXCLUDE|E4|video game treatment for ADHD tested for efficacy
+M008|UNCLEAR||ADHD prevalence among people with gambling harm; online gambling not specified
+M009|UNCLEAR||ADHD and problem gambling; online gambling not specified
+M010|INCLUDE||ADHD and internet addiction
+M011|EXCLUDE|E3|separate neuroimaging comparisons of IGD and ADHD; no finding linking condition and exposure
+M012|EXCLUDE|E2|ADHD delay discounting tasks; no online exposure
+M013|EXCLUDE|E3|personality and addictions; no finding linking substance use and an online exposure
+M014|INCLUDE||short-form video use and anxiety, stress, mental health
+M015|EXCLUDE|E1|gaming motivations and gaming disorder; no tracked condition
+M016|INCLUDE||problematic internet use and bipolar disorder
+M017|EXCLUDE|E4|smartphone interventions for bipolar disorder, efficacy
+M018|EXCLUDE|E4|smartphone interventions for bipolar disorder, efficacy
+M019|INCLUDE||problematic social media use and depression, anxiety
+M020|INCLUDE||problematic social media use and depression
+M021|INCLUDE||social media use and depression symptoms
+M022|INCLUDE||social anxiety and problematic social media use
+M023|INCLUDE||problematic social networking use and anxiety
+M024|INCLUDE||problematic social media use and depression
+M025|INCLUDE||social media use, depression, anxiety, sleep
+M026|INCLUDE||adolescent social media use and depressive symptoms
+M027|INCLUDE||problematic Facebook use and psychological distress (depression, anxiety)
+M028|INCLUDE||social media addiction and depression, anxiety
+M029|INCLUDE||social media use and depression, mental disorders
+M030|INCLUDE||problematic Instagram use and depression, anxiety
+M031|INCLUDE||social anxiety and problematic internet use
+M032|INCLUDE||time on social media and anxiety, depression
+M033|INCLUDE||social media addiction and anxiety, depression
+M034|INCLUDE||social media use and internalizing symptoms, clinical and community samples
+M035|INCLUDE||social anxiety mediating attachment and problematic social media use
+M036|INCLUDE||reducing social media use and depressive symptoms (exposure reduction, not a clinical treatment)
+M037|INCLUDE||problematic internet use and depression, anxiety
+M038|EXCLUDE|E1|social media use and well-being only
+M039|INCLUDE||SNS time, checking, social comparison and depression
+M040|UNCLEAR||FoMO and SNS use; depression and anxiety linked to FoMO, link to SNS use unclear; no abstract
+M041|INCLUDE||social media use and social anxiety
+M042|EXCLUDE|E2|mass trauma television coverage and PTS
+M043|INCLUDE||health anxiety and online health information seeking, cyberchondria
+M044|INCLUDE||cyberchondria and health anxiety, OCD symptoms
+M045|EXCLUDE|E1|intolerance of uncertainty and cyberchondria; no tracked condition
+M046|EXCLUDE|E4|internet CBT for OCD, efficacy
+M047|EXCLUDE|E4|internet CBT for OCD, acceptability
+M048|INCLUDE||cyberbullying and depression, suicidality, self-harm
+M049|INCLUDE||cyberbullying victimization and suicidal ideation
+M050|INCLUDE||cyberbullying victimization and depression
+M051|INCLUDE||peer victimization incl. cyberbullying and suicidal ideation
+M052|INCLUDE||cybervictimization and self-harm, suicidal behaviour
+M053|INCLUDE||cyberbullying victimization and depression, anxiety, NSSI
+M054|INCLUDE||cyber-victimization and depression
+M055|INCLUDE||cyberbullying victimization and mental health symptoms, longitudinal
+M056|INCLUDE||cyber victimization and depression, anxiety
+M057|INCLUDE||cyberbullying and depression, bidirectional
+M058|INCLUDE||cybervictimization and anxiety, depression
+M059|INCLUDE||cyberbullying and depression, anxiety, longitudinal both directions
+M060|INCLUDE||depression as predictor of cyberbullying perpetration
+M061|INCLUDE||social anxiety and bullying victimization incl. cyberbullying subgroup
+M062|INCLUDE||social media use, cybervictimization and self-injurious thoughts and behaviours
+M063|INCLUDE||problematic smartphone use and depression, anxiety, sleep
+M064|INCLUDE||problematic smartphone use and depression, anxiety
+M065|INCLUDE||digital peer support for people with mental health conditions (benefit; peer support is not E4)
+M066|INCLUDE||childhood trauma and internet addiction
+M067|INCLUDE||childhood trauma and problematic internet use
+M068|INCLUDE||adverse childhood experiences and internet addiction
+M069|INCLUDE||social anxiety and internet use, PIU
+M070|INCLUDE||social anxiety and SNS use
+M071|INCLUDE||problematic gambling prevalence by activity, highest for online casino and slots
+M072|INCLUDE||problem gambling risk factors, internet gambling OR 7.59
+M073|EXCLUDE|E4|commercial mental health chatbots evaluated as treatment adjuncts
+M074|EXCLUDE|E1|algorithmic recommendation audits; no condition population
+M075|EXCLUDE|E4|internet CBT efficacy
+M076|EXCLUDE|E4|internet-delivered treatment efficacy
+M077|EXCLUDE|E4|internet CBT vs face-to-face
+M078|EXCLUDE|E4|internet CBT long-term efficacy
+M079|EXCLUDE|E4|internet-delivered treatment add-on efficacy
+M080|EXCLUDE|E4|remote CBT for social anxiety
+M081|EXCLUDE|E4|internet CBT for depression
+M082|EXCLUDE|E2|co-rumination and depression; no online exposure
+M083|UNCLEAR||co-rumination and depression; co-rumination modality moderator may include online co-rumination
+M084|EXCLUDE|E4|internet and mobile interventions for panic disorder
+M085|EXCLUDE|E4|digital CBT for panic disorder
+M086|INCLUDE||technology-facilitated sexual violence prevalence; synthesized link to anxiety, depression
+M087|EXCLUDE|E2|peer victimization and suicidal ideation; online victimization not mentioned
+M088|INCLUDE||peer cybervictimization and internalizing problems, substance use
+M089|INCLUDE||time on social media and depression risk
+M090|INCLUDE||social media use and depressive symptoms, anxiety
+M091|INCLUDE||problematic smartphone use and anxiety, depression
+M092|EXCLUDE|E1|intolerance of uncertainty trends vs phone penetration; no tracked condition pooled
+M093|INCLUDE||gaming disorder and depression, anxiety, longitudinal both directions
+M094|INCLUDE||social media risk exposure and mental disorders
+M095|INCLUDE||screen use, social media, cyberbullying and self-harm, suicidal behaviour
+M096|EXCLUDE|E2|gambling disorder psychiatric comorbidity; online gambling not examined
+M097|INCLUDE||childhood maltreatment and cyberbullying victimization, perpetration
+M098|INCLUDE||short-form video use and depression, anxiety
+M099|INCLUDE||problematic TikTok use and depression, anxiety
+M100|INCLUDE||peer support for mental illness incl. an online peer support subgroup (nonsignificant)
+M101|EXCLUDE|E2|peer support interventions; no online delivery mentioned
+M102|UNCLEAR||digital peer support in healthy individuals; existing health conditions as moderator, mental health outcomes not specified
+M103|EXCLUDE|E2|group peer support; no online delivery mentioned
+M104|INCLUDE||mental symptoms and problematic internet use
+M105|INCLUDE||online health information seeking and health anxiety
+M106|INCLUDE||smartphone use and anxiety, stress
+M107|INCLUDE||internet and smartphone addiction and depression, anxiety
+M108|INCLUDE||problematic mobile phone use and anxiety, depression
+M109|INCLUDE||mobile phone addiction and anxiety, depression, sleep
+M110|INCLUDE||problematic smartphone use and depressive symptoms, suicidal ideation
+M111|INCLUDE||online social comparison and body image concerns, eating disorder symptoms
+M112|INCLUDE||adolescent social media use and body image concerns, disordered eating
+M113|INCLUDE||SNS use and disordered eating
+M114|INCLUDE||problematic internet use and eating disorder psychopathology
+M115|UNCLEAR||social comparison and disordered eating; online comparison not stated
+M116|EXCLUDE|E4|internet-based eating disorder programs, efficacy
+M117|INCLUDE||social media use and body image disturbance
+M118|INCLUDE||social media use and addiction and body dysmorphic disorder symptoms
+M119|INCLUDE||adolescent social media use and disordered eating, sleep
+M120|INCLUDE||pro-eating disorder website exposure and body image, eating pathology
+M121|INCLUDE||media incl. social media and body image, eating disorder outcomes
+M122|INCLUDE||SNS use and thin-ideal internalization (body image)
+M123|EXCLUDE|E2|laboratory exposure to ideal-physique images; not online media
+M124|INCLUDE||social media exposure and body dissatisfaction, BDD symptoms
+M125|EXCLUDE|E2|BDD prevalence in cosmetic surgery patients; no online exposure
+M126|EXCLUDE|E2|BDD prevalence in plastic surgery; no online exposure
+M127|EXCLUDE|E2|BDD prevalence; no online exposure
+M128|EXCLUDE|E4|smartphone apps for eating disorders, efficacy
+M129|UNCLEAR||weight-related self-monitoring and eating disorder symptoms; whether app or online tracking is included is unclear
+M130|INCLUDE||problematic internet use and eating disorders
+M131|INCLUDE||pooled prevalence of pathological internet use in eating disorders
+M132|INCLUDE||social media appearance-ideal images and body image, experimental and longitudinal
+M133|EXCLUDE|E4|eHealth guided self-help for binge eating disorder
+M134|EXCLUDE|E4|internet CBT for binge spectrum eating disorders
+M135|EXCLUDE|E4|self-guided web and app interventions for eating disorders
+M136|INCLUDE||autism and problematic internet use, social media use
+M137|INCLUDE||victimisation prevalence in autistic people incl. cyberbullying 13%
+M138|INCLUDE||social media interventions incl. online peer support for schizophrenia
+M139|INCLUDE||digital technology use and cognitive impairment, dementia (protective)
+M140|EXCLUDE|E2|conspiracy beliefs and paranoia, schizotypy; no online exposure
+M141|EXCLUDE|E2|companion robots for dementia; not an online exposure
+M142|EXCLUDE|E2|socially assistive robots for dementia; pooled results on non-networked robots
+M143|EXCLUDE|E2|victimization in psychosis; no online exposure
+M144|EXCLUDE|E2|sexual abuse in intellectual disability; no online exposure
+M145|INCLUDE||bullying incl. cyberbullying in neurodevelopmental and psychiatric conditions vs controls
+M146|EXCLUDE|E2|adult ADHD prevalence; no online exposure
+M147|EXCLUDE|E2|ADHD prevalence; no online exposure
+M148|EXCLUDE|E2|adult ADHD prevalence umbrella review; no online exposure
+M149|EXCLUDE|E2|adult ADHD prevalence; no online exposure
+M150|EXCLUDE|E2|ADHD prevalence in older adults; no online exposure
+M151|EXCLUDE|E2|ADHD persistence; no online exposure
+M152|EXCLUDE|E2|ADHD prevalence in clinical settings; no online exposure
+M153|EXCLUDE|E2|ADHD prevalence; no online exposure
+M154|EXCLUDE|E2|ADHD prevalence; no online exposure
+M155|EXCLUDE|E2|ADHD prevalence; no online exposure
+M156|EXCLUDE|E2|autism prevalence; no online exposure
+M157|EXCLUDE|E2|autism prevalence; no online exposure
+M158|EXCLUDE|E2|PTSD prevalence; no online exposure
+M159|EXCLUDE|E2|OCD prevalence; no online exposure
+M160|EXCLUDE|E2|OCD in bipolar disorder prevalence; no online exposure
+M161|EXCLUDE|E2|bipolar prevalence; no online exposure
+M162|EXCLUDE|E2|bipolar prevalence; no online exposure
+M163|EXCLUDE|E2|pediatric bipolar prevalence; no online exposure
+M164|EXCLUDE|E2|schizophrenia prevalence; no online exposure
+M165|EXCLUDE|E2|common mental disorder prevalence; no online exposure
+M166|EXCLUDE|E2|child mental disorder prevalence; no online exposure
+M167|EXCLUDE|E2|eating disorder prevalence; no online exposure
+M168|EXCLUDE|E2|eating disorder burden; no online exposure
+M169|EXCLUDE|E2|intellectual disability prevalence; no online exposure
+M170|EXCLUDE|E2|dementia prevalence; no online exposure
+M171|INCLUDE||bullying incl. cyberbullying in chronic physical illness and physical or sensory disability vs peers
+M172|EXCLUDE|E1|fraud prevalence among cognitively intact older adults; no tracked condition
+M173|EXCLUDE|E2|sexual violence against disabled people; online form not examined
+M174|EXCLUDE|E2|undetected dementia; no online exposure
+M175|EXCLUDE|E2|time to dementia diagnosis; no online exposure
+M176|EXCLUDE|E2|delayed diagnosis in bipolar disorder; no online exposure
+M177|EXCLUDE|E2|untreated bipolar disorder; no online exposure
+M178|EXCLUDE|E2|unrecognized bipolar disorder; no online exposure
+M179|EXCLUDE|E1|online child sexual exploitation prevalence in general population; no condition analysis
+M180|EXCLUDE|E2|child mental disorder prevalence; no online exposure
+M181|EXCLUDE|E2|dyslexia reading skills; no online exposure
+M182|INCLUDE||internet addiction and depression, anxiety, suicidal behaviour
+M183|INCLUDE||problematic TikTok use and depression, anxiety (same review as M099, same PROSPERO ID)

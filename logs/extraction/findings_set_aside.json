@@ -1,0 +1,1163 @@
+[
+ {
+  "key": "P|M027|0|0",
+  "id": "M027",
+  "label": "Problematic Facebook use and psychological distress (composite including depression and anxiety; pooled r)",
+  "value": 0.34,
+  "rule": "condition not counted",
+  "reason": "Psychological distress composite (depression, anxiety, 'poor mental health', other symptoms) is not a counted condition; no depression- or anxiety-specific pooled estimate.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M036|1|1",
+  "id": "M036",
+  "label": "Limited-use interventions and depressive symptoms",
+  "value": 0.33,
+  "rule": "subgroup/moderator not age or clinical-vs-community",
+  "reason": "Intervention-type split (limited use) comes from the review's categorical moderator subgroup analysis (Table 4), not an age or clinical-versus-community subgroup.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M036|2|2",
+  "id": "M036",
+  "label": "Full-abstinence interventions and depressive symptoms (not significant)",
+  "value": 0.15,
+  "rule": "subgroup/moderator not age or clinical-vs-community",
+  "reason": "Intervention-type split (full abstinence) comes from the review's categorical moderator subgroup analysis (Table 4), not an age or clinical-versus-community subgroup.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M037|2|2",
+  "id": "M037",
+  "label": "PIU and other mental health outcomes (composite incl. suicide), overall",
+  "value": 0.289,
+  "rule": "condition not counted",
+  "reason": "'Other mental health outcomes' pools suicide with aggression, hostility, stress and others; a mixed composite, not a counted condition.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M037|9|7",
+  "id": "M037",
+  "label": "PIU and other mental health outcomes, age subgroup: secondary school students",
+  "value": 0.275,
+  "rule": "condition not counted",
+  "reason": "School-grade subgroup of 'other mental health outcomes', a mixed composite (suicide, aggression, hostility, stress) that is not a counted condition.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M037|10|8",
+  "id": "M037",
+  "label": "PIU and other mental health outcomes, age subgroup: undergraduates",
+  "value": 0.303,
+  "rule": "condition not counted",
+  "reason": "School-grade subgroup of 'other mental health outcomes', a mixed composite (suicide, aggression, hostility, stress) that is not a counted condition.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M051|0|2",
+  "id": "M051",
+  "label": "Cyberbullying and suicidal ideation (stronger than traditional bullying; value not in abstract)",
+  "value": null,
+  "rule": "subgroup/moderator not age or clinical-vs-community",
+  "reason": "Cyber-versus-traditional comparison comes from moderator analysis of overall peer victimization; no pooled estimate for the online pairing, not an age or clinical subgroup.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M053|0|0",
+  "id": "M053",
+  "label": "CV and depression/anxiety, Stage 1 pooled correlation, emotional dysregulation dataset",
+  "value": 0.33,
+  "rule": "not a main pooled estimate (mediator-dataset subgroup)",
+  "reason": "Stage 1 MASEM correlation pooled only within the emotional dysregulation mediator dataset; a mediation-model subset, not a main pooled estimate.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M053|1|1",
+  "id": "M053",
+  "label": "CV and depression/anxiety, Stage 1 pooled correlation, social support dataset",
+  "value": 0.28,
+  "rule": "not a main pooled estimate (mediator-dataset subgroup)",
+  "reason": "Stage 1 MASEM correlation pooled only within the social support mediator dataset; a mediation-model subset, not a main pooled estimate.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M053|2|2",
+  "id": "M053",
+  "label": "CV and depression/anxiety, Stage 1 pooled correlation, cognitive processes dataset",
+  "value": 0.32,
+  "rule": "not a main pooled estimate (mediator-dataset subgroup)",
+  "reason": "Stage 1 MASEM correlation pooled only within the cognitive processes mediator dataset; a mediation-model subset, not a main pooled estimate.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M053|3|3",
+  "id": "M053",
+  "label": "CV and depression/anxiety, Stage 1 pooled correlation, internalising problems dataset",
+  "value": 0.3,
+  "rule": "not a main pooled estimate (mediator-dataset subgroup)",
+  "reason": "Stage 1 MASEM correlation pooled only within the internalising problems mediator dataset; a mediation-model subset, not a main pooled estimate.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M053|4|4",
+  "id": "M053",
+  "label": "CV and depression/anxiety, Stage 1 pooled correlation, life stressors dataset",
+  "value": 0.32,
+  "rule": "not a main pooled estimate (mediator-dataset subgroup)",
+  "reason": "Stage 1 MASEM correlation within the life stressors mediator dataset, not a main pooled estimate; same pairing and value as row 121.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M053|5|5",
+  "id": "M053",
+  "label": "CV and NSSI/suicidality, Stage 1 pooled correlation, cognitive processes dataset",
+  "value": 0.23,
+  "rule": "not a main pooled estimate (mediator-dataset subgroup)",
+  "reason": "Stage 1 MASEM correlation pooled only within the cognitive processes mediator dataset; a mediation-model subset, not a main pooled estimate.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M053|6|6",
+  "id": "M053",
+  "label": "CV and NSSI/suicidality, Stage 1 pooled correlation, internalising problems dataset",
+  "value": 0.29,
+  "rule": "not a main pooled estimate (mediator-dataset subgroup)",
+  "reason": "Stage 1 MASEM correlation pooled only within the internalising problems mediator dataset; a mediation-model subset, not a main pooled estimate.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M055|2|3",
+  "id": "M055",
+  "label": "Longitudinal CV and overall mental health symptoms (composite)",
+  "value": 0.232,
+  "rule": "condition not counted",
+  "reason": "'Overall mental health' composite includes loneliness, stress, wellbeing and other non-counted outcomes alongside depression and anxiety; not a counted condition.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M055|3|2",
+  "id": "M055",
+  "label": "Longitudinal CV and body image/negative cognition/low self-esteem/psychological distress (composite), null",
+  "value": 0.024,
+  "rule": "condition not counted",
+  "reason": "Composite of body image with negative cognition, low self-esteem and psychological distress; mixes non-counted outcomes, so not a counted condition.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M056|0|0",
+  "id": "M056",
+  "label": "Cyber victimization and depression (pooled value not in abstract)",
+  "value": null,
+  "rule": "not a main pooled estimate",
+  "reason": "Abstract gives no pooled cyber victimization-depression result; quote is a cyber-versus-traditional difference test, not a main pooled estimate.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M056|1|1",
+  "id": "M056",
+  "label": "Cyber victimization and anxiety (pooled value not in abstract)",
+  "value": null,
+  "rule": "not a main pooled estimate",
+  "reason": "Abstract gives no pooled cyber victimization-anxiety result; quote is a cyber-versus-traditional difference test, not a main pooled estimate.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M064|1|2",
+  "id": "M064",
+  "label": "PSU and anxiety (after excluding the heterogeneous Tavakolizadeh et al. study)",
+  "value": 3.05,
+  "rule": "sensitivity reanalysis",
+  "reason": "Reanalysis after excluding Tavakolizadeh et al.; the main pooled OR for PSU and anxiety is 2.60 (95% CI 1.39-4.85).",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M068|1|1",
+  "id": "M068",
+  "label": "Emotional abuse and Internet addiction",
+  "value": 0.235,
+  "rule": "subgroup other than age or clinical",
+  "reason": "Type-of-ACE subgroup analysis (Table 3, 'Subgroup of ACEs'); subgroups other than age or clinical versus community are not recorded.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M068|2|2",
+  "id": "M068",
+  "label": "Physical abuse and Internet addiction",
+  "value": 0.161,
+  "rule": "subgroup other than age or clinical",
+  "reason": "Type-of-ACE subgroup analysis (Table 3, 'Subgroup of ACEs'); subgroups other than age or clinical versus community are not recorded.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M068|3|3",
+  "id": "M068",
+  "label": "Emotional neglect and Internet addiction",
+  "value": 0.166,
+  "rule": "subgroup other than age or clinical",
+  "reason": "Type-of-ACE subgroup analysis (Table 3, 'Subgroup of ACEs'); subgroups other than age or clinical versus community are not recorded.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M068|4|4",
+  "id": "M068",
+  "label": "Physical neglect and Internet addiction",
+  "value": 0.253,
+  "rule": "subgroup other than age or clinical",
+  "reason": "Type-of-ACE subgroup analysis (Table 3, 'Subgroup of ACEs'); subgroups other than age or clinical versus community are not recorded.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M068|5|5",
+  "id": "M068",
+  "label": "Sexual abuse and Internet addiction",
+  "value": 0.166,
+  "rule": "subgroup other than age or clinical",
+  "reason": "Type-of-ACE subgroup analysis (Table 3, 'Subgroup of ACEs'); subgroups other than age or clinical versus community are not recorded.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M095|4|4",
+  "id": "M095",
+  "label": "Social media use (exposure level within total screen use) and subsequent self-harm",
+  "value": 1.11,
+  "rule": "single study's figure",
+  "reason": "Table 3 shows 1 study (2 results); a single study's figure, not a cross-study pooled estimate.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M095|5|5",
+  "id": "M095",
+  "label": "Social media use (exposure level within total screen use) and subsequent suicidal behavior (single study)",
+  "value": 1.35,
+  "rule": "single study's figure",
+  "reason": "Table 3 shows 1 study, 1 result; no pooling, a single study's figure.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M095|7|7",
+  "id": "M095",
+  "label": "Problematic/addictive screen use (exposure level) and subsequent suicidal behavior (single study)",
+  "value": 2.41,
+  "rule": "single study's figure",
+  "reason": "Table 3 shows 1 study, 1 result; no pooling, a single study's figure.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M102|0|0",
+  "id": "M102",
+  "label": "Digital peer support interventions and mental health (pooled)",
+  "value": 0.53,
+  "rule": "condition not on counted list",
+  "reason": "Outcome is an unspecified composite 'mental health' in healthy samples; not identifiable as a counted condition and may include wellbeing.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M113|3|3",
+  "id": "M113",
+  "label": "Sample source subgroup: clinical sample (null, single study)",
+  "value": -0.169,
+  "rule": "single study's figure",
+  "reason": "Clinical subgroup rests on 1 study (4 effects); a single study's figure, not a cross-study pooled estimate.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M113|4|4",
+  "id": "M113",
+  "label": "Sample source subgroup: other samples (null)",
+  "value": -0.039,
+  "rule": "subgroup other than age or clinical",
+  "reason": "'Other sample' level of the sample-source moderator is neither an age-group nor a clinical-versus-community subgroup.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M124|0|0",
+  "id": "M124",
+  "label": "Forest plot 1: pooled prevalence of social media impact on beauty standards and cosmetic procedures (outcome not further defined)",
+  "value": 0.57,
+  "rule": "condition not counted",
+  "reason": "Outcome is undefined social media 'impact' on beauty standards and cosmetic procedure interest, not a counted condition such as body image disturbance.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M124|1|1",
+  "id": "M124",
+  "label": "Forest plot 2: pooled prevalence of social media impact (outcome not further defined)",
+  "value": 0.48,
+  "rule": "condition not counted",
+  "reason": "Outcome is undefined social media 'impact' on beauty standards and cosmetic procedure interest, not a counted condition such as body image disturbance.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M124|2|2",
+  "id": "M124",
+  "label": "Forest plot 3: pooled prevalence of social media impact (outcome not further defined)",
+  "value": 0.33,
+  "rule": "condition not counted",
+  "reason": "Outcome is undefined social media 'impact' on beauty standards and cosmetic procedure interest, not a counted condition such as body image disturbance.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|M131|2|0",
+  "id": "M131",
+  "label": "Prevalence of compulsive internet use in eating disorders (single study, imprecise)",
+  "value": 12,
+  "rule": "meta-analysis: main pooled estimates only",
+  "reason": "Figure comes from a single study (k = 1, N = 60), not a pooled estimate; authors flag it as single-study and imprecise.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S008|0|6",
+  "id": "S008",
+  "label": "Loot box expenditure and gambling disorder severity, studies only including gambling disorder: all correlational studies significant and positive, range .17 to .35",
+  "value": null,
+  "rule": "duplicate",
+  "reason": "Same result as row 64: loot box expenditure and gambling disorder severity, gambling-disorder-only studies, range .17 to .35.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S011|1|1",
+  "id": "S011",
+  "label": "Depression and anxiety named as playing important roles in the adult ADHD-IGD/GD association (8 studies)",
+  "value": 8,
+  "rule": "mediation paths not recorded",
+  "reason": "Depression and anxiety are reported as mediating factors in the ADHD and IGD/GD link, not as their own pairing with an online exposure.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S020|0|0",
+  "id": "S020",
+  "label": "Heavy SFV use and inattention (abstract summary coefficient)",
+  "value": 0.3,
+  "rule": "no cross-study result",
+  "reason": "Approximate beta values in the abstract are not stated as pooled, median, range, or study-count results; no cross-study basis is given.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S020|1|1",
+  "id": "S020",
+  "label": "Heavy SFV use and impulsivity (abstract summary coefficient)",
+  "value": 0.25,
+  "rule": "no cross-study result",
+  "reason": "Approximate beta values in the abstract are not stated as pooled, median, range, or study-count results; no cross-study basis is given.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S020|2|2",
+  "id": "S020",
+  "label": "Heavy SFV use and anxiety (abstract summary coefficient)",
+  "value": 0.35,
+  "rule": "no cross-study result",
+  "reason": "Approximate beta values in the abstract are not stated as pooled, median, range, or study-count results; no cross-study basis is given.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S020|3|3",
+  "id": "S020",
+  "label": "Heavy SFV use and depression (abstract summary coefficient)",
+  "value": 0.48,
+  "rule": "no cross-study result",
+  "reason": "Approximate beta values in the abstract are not stated as pooled, median, range, or study-count results; no cross-study basis is given.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S023|0|0",
+  "id": "S023",
+  "label": "Digital media use predicting later ADHD symptoms: 1 study significant",
+  "value": 1,
+  "rule": "single-study result",
+  "reason": "Count of one: the review describes a single study (ref 17) for digital media predicting later ADHD; not a cross-study result.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S024|0|0",
+  "id": "S024",
+  "label": "EM positively associated with social anxiety: 1 article",
+  "value": 1,
+  "rule": "single-study result",
+  "reason": "One article (ref 22) only; the review says results were unique to each study; not a cross-study result.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S024|1|1",
+  "id": "S024",
+  "label": "Adults with autism spectrum disorder show higher EM than controls: 1 article",
+  "value": 1,
+  "rule": "single-study result",
+  "reason": "One article (ref 44) only; the review says results were unique to each study; not a cross-study result.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S031|4|4",
+  "id": "S031",
+  "label": "Token wagering with gambling: 1 study (100%) reported significant relationship, small effect",
+  "value": 1,
+  "rule": "single-study result",
+  "reason": "Only one study (100%) examined token wagering and gambling; a single study's result, not a cross-study result.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S038|1|1",
+  "id": "S038",
+  "label": "PSMU with depressive symptoms: significant positive association in 11 of 13 studies (0.129 < r < 0.45)",
+  "value": 11,
+  "rule": "meta-analysis: main pooled estimates only",
+  "reason": "Narrative study count in a meta-analysis; only the pooled estimate counts, and depression and anxiety were pooled together (row 112).",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S038|2|2",
+  "id": "S038",
+  "label": "PSMU with depressive symptoms: negative association in 2 of 13 studies",
+  "value": 2,
+  "rule": "meta-analysis: main pooled estimates only",
+  "reason": "Narrative study count in a meta-analysis; only the pooled estimate counts, and depression and anxiety were pooled together (row 112).",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S038|3|3",
+  "id": "S038",
+  "label": "PSMU with anxiety symptoms: significant positive association in 10 of 13 studies (0.167 < r < 0.385)",
+  "value": 10,
+  "rule": "meta-analysis: main pooled estimates only",
+  "reason": "Narrative study count in a meta-analysis; only the pooled estimate counts, and depression and anxiety were pooled together (row 112).",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S038|4|4",
+  "id": "S038",
+  "label": "PSMU with anxiety symptoms: negative association in 3 of 13 studies",
+  "value": 3,
+  "rule": "meta-analysis: main pooled estimates only",
+  "reason": "Narrative study count in a meta-analysis; only the pooled estimate counts, and depression and anxiety were pooled together (row 112).",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S039|0|0",
+  "id": "S039",
+  "label": "Social media addiction and depression: positive association in each of the three addiction studies (count of studies)",
+  "value": 3,
+  "rule": "no cross-study result",
+  "reason": "The review says only that three studies examined addiction, then describes each; it states no cross-study count, so the tally is extractor-derived.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S041|3|3",
+  "id": "S041",
+  "label": "OCD as risk factor for PSNU: positive relationship supported by 1 review (count of reviews)",
+  "value": 1,
+  "rule": "single-study result",
+  "reason": "Count of one review (n = 1): a single included review's result, not a cross-study result.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S041|4|4",
+  "id": "S041",
+  "label": "ADHD as risk factor for PSNU: positive relationship supported by 1 review (count of reviews)",
+  "value": 1,
+  "rule": "single-study result",
+  "reason": "Count of one review (n = 1): a single included review's result, not a cross-study result.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S041|5|5",
+  "id": "S041",
+  "label": "Childhood trauma as risk factor for PSNU: positive relationship supported by 1 review (count of reviews)",
+  "value": 1,
+  "rule": "single-study result",
+  "reason": "Count of one review (n = 1): a single included review's result, not a cross-study result.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S042|6|6",
+  "id": "S042",
+  "label": "PSNSU and ADHD: positive association in the 1 study examining it (count)",
+  "value": 1,
+  "rule": "single-study result",
+  "reason": "Only one study examined PSNSU and ADHD; a single study's result, not a cross-study result.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S042|7|7",
+  "id": "S042",
+  "label": "PSNSU and OCD: positive association in the 1 study examining it (count)",
+  "value": 1,
+  "rule": "single-study result",
+  "reason": "Only one study examined PSNSU and OCD; a single study's result, not a cross-study result.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S049|0|0",
+  "id": "S049",
+  "label": "Doomscrolling and distress–anxiety outcomes: n-weighted descriptive estimate across four samples (authors state it is not a formal meta-analysis)",
+  "value": 0.88,
+  "rule": "counted conditions only",
+  "reason": "Weighted d pools psychological distress, existential anxiety and secondary traumatic stress; review frames it as negative affect/distress, not a counted condition.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S052|2|2",
+  "id": "S052",
+  "label": "Positive significant associations in 40 studies for a combined set of constructs incl. anxiety, anxiety sensitivity, hypochondria, internet and smartphone addiction (number examined not stated)",
+  "value": 40,
+  "rule": "counted conditions only",
+  "reason": "Count of 40 pools many non-counted constructs (stress, affect, ritual beliefs, stop signals, internet and smartphone addiction); not attributable to anxiety.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S058|1|1",
+  "id": "S058",
+  "label": "Externalizing problems including substance use (with anger, hostility, behavioural problems) as predictors of cyberbullying victimization; median r, range −0.01 to 0.57",
+  "value": 0.16,
+  "rule": "counted conditions only",
+  "reason": "Median r is for an externalizing-problems composite (anger, hostility, behavioural problems); substance use is one minor component, not a separate result.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S058|4|4",
+  "id": "S058",
+  "label": "Cyberbullying victimization and externalizing behaviours including drug and alcohol use; positive in 17 of 18 effect sizes; median r, range −0.26 to 0.61",
+  "value": 0.22,
+  "rule": "counted conditions only",
+  "reason": "Median r is for an externalizing-behaviour composite (aggression, perpetration, conduct problems); drug and alcohol use is one minor component, not a separate result.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S061|2|3",
+  "id": "S061",
+  "label": "Stress/post-traumatic stress reported among victims (13 of 43 articles; stress and PTSD combined)",
+  "value": 13,
+  "rule": "counted conditions only",
+  "reason": "Table row merges stress (not counted) with post-traumatic stress; the count of 13 cannot be attributed to PTSD.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S065|0|0",
+  "id": "S065",
+  "label": "Theme: relationship between time spent on Instagram and DSH (9 papers; mixed, includes one null study)",
+  "value": 9,
+  "rule": "count of studies with a result",
+  "reason": "Theme count of papers addressing the topic (including a null study), not a count of studies with a stated result.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S067|2|4",
+  "id": "S067",
+  "label": "Disclosure and proliferation of DSH content as a risk theme (9 of 19 risk articles; one, Poonai, found no significant effect)",
+  "value": 9,
+  "rule": "count of studies with a result",
+  "reason": "Count of articles addressing a theme (content proliferation, includes a null study), not a count of studies with a result on self-harm.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S080|4|5",
+  "id": "S080",
+  "label": "Studies measuring both CP and DS, problem gambling, cross-sectional: DS not significantly associated (CP significant) in 3 of 10 (null for DS)",
+  "value": 3,
+  "rule": "duplicate",
+  "reason": "Duplicate of row 75 (same 3 of 10 null result). Problem gambling not specified as online.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S080|5|2",
+  "id": "S080",
+  "label": "Studies measuring both CP and DS, problem gambling, longitudinal: 2 of 4 found significant relationships of DS and CP with later PG",
+  "value": 2,
+  "rule": "duplicate",
+  "reason": "Duplicate of row 76 (same 2 of 4 longitudinal result). Problem gambling not specified as online.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S088|0|0",
+  "id": "S088",
+  "label": "Negative affectivity as risk factor for problematic smartphone use: 24 of 25 studies positive",
+  "value": 24,
+  "rule": "counted conditions only",
+  "reason": "Count is for negative affectivity (incl. stress, boredom, rumination), an excluded outcome; review gives no separate depression or anxiety count.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S088|1|1",
+  "id": "S088",
+  "label": "Negative affect as risk factor for problematic social media use: 10 of 10 studies positive",
+  "value": 10,
+  "rule": "counted conditions only",
+  "reason": "Count is for negative affect (incl. communication apprehension, rumination), an excluded outcome; review gives no separate depression or anxiety count.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S088|2|2",
+  "id": "S088",
+  "label": "Negative affectivity as risk factor for Internet gaming disorder: 3 of 3 studies positive",
+  "value": 3,
+  "rule": "counted conditions only",
+  "reason": "Recorded 3 of 3 is for negative affectivity (depression plus avoidant coping), an excluded outcome; review's depression-specific count is 2.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S095|0|0",
+  "id": "S095",
+  "label": "Sleep mediated the device use to mental health link (incl. depressed mood/depressive symptoms, anxiety) in the 4 mediation studies; consistent direction",
+  "value": 4,
+  "rule": "no mediation paths; counted conditions only",
+  "reason": "Result is sleep as mediator (mediation path); the four studies' outcomes also include well-being, self-esteem, life satisfaction and externalising behaviour.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S111|10|10",
+  "id": "S111",
+  "label": "Appearance comparisons on social media a significant mediator in 19 of 21 studies",
+  "value": 19,
+  "rule": "rule 7: no mediators or moderators in reviews without a meta-analysis",
+  "reason": "appearance comparison as a mediator",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S115|9|8",
+  "id": "S115",
+  "label": "Social media disorder scales: significant associations across outcomes (except emotional eating) in all 4 studies using them",
+  "value": 4,
+  "rule": "counted conditions",
+  "reason": "Condition unspecified ('different outcomes', may include non-counted ones); a heterogeneity remark about exposure scales, not a named condition pairing.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S126|3|1",
+  "id": "S126",
+  "label": "Physical appearance comparison increased with fitspiration exposure (9 of 12 studies)",
+  "value": 9,
+  "rule": "counted conditions",
+  "reason": "Outcome is physical appearance comparison, which the review analyses separately from body image; not a counted condition.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S138|6|4",
+  "id": "S138",
+  "label": "PSU or smartphone addiction positively associated with body dissatisfaction in 4 of 11 body image studies (one nomophobia study and one PSU study found no association; one study found no link with body dysmorphic disorder screening)",
+  "value": 4,
+  "rule": "duplicate",
+  "reason": "Same pairing and number as row 67: PSU/smartphone addiction with body dissatisfaction, 4 of 11 studies.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S148|4|2",
+  "id": "S148",
+  "label": "Intensity of Instagram use and body surveillance: small positive link in 2 of 3 studies",
+  "value": 2,
+  "rule": "duplicate",
+  "reason": "Same pairing and number as row 77: Instagram use intensity with body surveillance, 2 of 3 studies.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S149|3|1",
+  "id": "S149",
+  "label": "Photo-editing and body concerns: indirect (mediated) associations in three of 22 studies",
+  "value": 3,
+  "rule": "rule 7: no mediators or moderators in reviews without a meta-analysis",
+  "reason": "indirect (mediated) photo-editing links",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S175|8|4",
+  "id": "S175",
+  "label": "Increased age associated with reduced ICT use (8 studies)",
+  "value": 8,
+  "rule": "rule 7: no mediators or moderators in reviews without a meta-analysis",
+  "reason": "age as a predictor of ICT use within people with psychosis",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S175|10|6",
+  "id": "S175",
+  "label": "Increased digital literacy associated with increased ICT use (3 studies)",
+  "value": 3,
+  "rule": "rule 7: no mediators or moderators in reviews without a meta-analysis",
+  "reason": "digital literacy as a predictor of ICT use within people with psychosis",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S175|11|9",
+  "id": "S175",
+  "label": "Accommodations and accessibility considerations in ICT uptake (2 studies)",
+  "value": 2,
+  "rule": "duplicate",
+  "reason": "Same result and number as row 12 (accommodations and accessibility considerations, 2 studies).",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S180|5|4",
+  "id": "S180",
+  "label": "Barrier: device-specific complaints (6 studies, 21%)",
+  "value": 6,
+  "rule": "no counted condition",
+  "reason": "Barrier counted across older adults with and without cognitive impairment; not linked to any counted condition.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S180|6|5",
+  "id": "S180",
+  "label": "Barrier: difficult to learn to use (6 studies, 21%)",
+  "value": 6,
+  "rule": "no counted condition",
+  "reason": "Barrier counted across older adults with and without cognitive impairment; not linked to any counted condition.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S180|7|8",
+  "id": "S180",
+  "label": "Barrier: technology anxiety and technophobia (3 studies, 11%)",
+  "value": 3,
+  "rule": "no counted condition",
+  "reason": "Technophobia barrier across older adults with and without impairment; not the anxiety condition or any counted condition.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S181|2|2",
+  "id": "S181",
+  "label": "Risks of social media use for people with TBI reported (harm)",
+  "value": 12,
+  "rule": "duplicate",
+  "reason": "Same result and number as row 45 (risks of social media use, 12 of 16 studies).",
+  "from_set": "agreed"
+ },
+ {
+  "key": "P|S232|2|2",
+  "id": "S232",
+  "label": "Cyber bully-victim prevalence among students with ND, 6.7%",
+  "value": 6.7,
+  "rule": "not a cross-study result",
+  "reason": "Single prevalence (6.7%), not a pooled, median, range, or count; likely one study's figure.",
+  "from_set": "agreed"
+ },
+ {
+  "key": "S|M023|A|2",
+  "id": "M023",
+  "label": "PSNU and attachment anxiety (pooled r)",
+  "value": 0.345,
+  "rule": "counted conditions",
+  "reason": "Attachment anxiety (ECR attachment dimension) is not an anxiety condition or symptom scale, though the review calls it an anxiety subtype.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|M023|A|3",
+  "id": "M023",
+  "label": "PSNU and fear of missing out (pooled r)",
+  "value": 0.496,
+  "rule": "counted conditions",
+  "reason": "Fear of missing out is not on the counted conditions list and is not an anxiety symptom scale, despite the review's subtype framing.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|M035|A|0",
+  "id": "M035",
+  "label": "Social anxiety mediating attachment and problematic social media use (MASEM; no estimate in abstract)",
+  "value": null,
+  "rule": "meta-analysis: main pooled estimates only",
+  "reason": "MASEM indirect (mediation) path from anxious attachment through social anxiety, not a main pooled estimate for a counted condition pairing; no number.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|M037|A|5",
+  "id": "M037",
+  "label": "PIU and depressive symptoms, age subgroup: others (primary school or mixed grades)",
+  "value": 0.331,
+  "rule": "meta-analysis subgroups: age-group only",
+  "reason": "'Others' grade level pools primary-school and mixed-grade samples; a residual mixed-age category within a moderator table, not a distinct age group.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|M037|A|8",
+  "id": "M037",
+  "label": "PIU and anxiety, age subgroup: others (primary school or mixed grades)",
+  "value": 0.344,
+  "rule": "meta-analysis subgroups: age-group only",
+  "reason": "'Others' grade level pools primary-school and mixed-grade samples; a residual mixed-age category within a moderator table, not a distinct age group.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|M037|A|11",
+  "id": "M037",
+  "label": "PIU and other mental health outcomes, age subgroup: others (primary school or mixed grades)",
+  "value": 0.316,
+  "rule": "counted conditions; meta-analysis subgroups: age-group only",
+  "reason": "Composite 'other mental health outcomes' includes stress, aggression, hostility (not counted); also residual mixed-age 'Others' grade level, not an age group.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|M044|A|1",
+  "id": "M044",
+  "label": "Health anxiety and CSS compulsion dimension (meta-regression with subscale as moderator)",
+  "value": 0.46,
+  "rule": "meta-analysis: no meta-regression coefficients",
+  "reason": "Table 2 is titled meta-regression with subscale as moderator; coefficients are excluded. Main estimate is overall cyberchondria r=0.63.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|M044|A|2",
+  "id": "M044",
+  "label": "Health anxiety and CSS distress dimension (meta-regression with subscale as moderator)",
+  "value": 0.66,
+  "rule": "meta-analysis: no meta-regression coefficients",
+  "reason": "Table 2 is titled meta-regression with subscale as moderator; coefficients are excluded. Main estimate is overall cyberchondria r=0.63.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|M044|A|3",
+  "id": "M044",
+  "label": "Health anxiety and CSS excessiveness dimension (meta-regression with subscale as moderator)",
+  "value": 0.59,
+  "rule": "meta-analysis: no meta-regression coefficients",
+  "reason": "Table 2 is titled meta-regression with subscale as moderator; coefficients are excluded. Main estimate is overall cyberchondria r=0.63.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|M044|A|4",
+  "id": "M044",
+  "label": "Health anxiety and CSS reassurance dimension (meta-regression with subscale as moderator)",
+  "value": 0.44,
+  "rule": "meta-analysis: no meta-regression coefficients",
+  "reason": "Table 2 is titled meta-regression with subscale as moderator; coefficients are excluded. Main estimate is overall cyberchondria r=0.63.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|M044|A|5",
+  "id": "M044",
+  "label": "Health anxiety and CSS mistrust of medical professionals dimension (meta-regression with subscale as moderator)",
+  "value": 0.24,
+  "rule": "meta-analysis: no meta-regression coefficients",
+  "reason": "Table 2 is titled meta-regression with subscale as moderator; coefficients are excluded. Main estimate is overall cyberchondria r=0.63.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|M088|A|0",
+  "id": "M088",
+  "label": "Peer cybervictimization with internalizing and externalizing problems: range of pooled r across outcomes (r = .14 to .34)",
+  "value": null,
+  "rule": "meta-analysis: main pooled estimate per pairing",
+  "reason": "Range spans several pooled outcomes, including non-counted anger, aggression and risky sex; not a pooled estimate for one counted pairing.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|M104|B|3",
+  "id": "M104",
+  "label": "Age subgroup: mixed university and middle school samples",
+  "value": 0.247,
+  "rule": "meta-analysis subgroups: age-group only",
+  "reason": "'Mixed' grade level pools university and middle-school samples; residual mixed-age category, not a distinct age group.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|M115|B|3",
+  "id": "M115",
+  "label": "Social comparison with body image concerns (type-of-disordered-eating category)",
+  "value": 0.45,
+  "rule": "online side must be online; no moderator analyses",
+  "reason": "Social comparison in any context, not online-specific; Table 4 is a moderator analysis by disordered-eating type.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|M122|B|1",
+  "id": "M122",
+  "label": "Combined SNS use (per-study mean of overall and appearance-related effects) and thin-ideal internalization",
+  "value": 0.21,
+  "rule": "meta-analysis: main pooled estimates only",
+  "reason": "Sensitivity reanalysis averaging overall and appearance-related effects per study; main pooled estimate is r=0.18 for overall SNS use.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|M122|B|2",
+  "id": "M122",
+  "label": "Appearance-related SNS feature use versus overall SNS use: larger association with thin-ideal internalization (difference in effect size)",
+  "value": 0.11,
+  "rule": "meta-analysis: no moderator analyses",
+  "reason": "Difference in mean effect between appearance-related and overall SNS use is a moderator comparison, not a pooled estimate.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|M138|A|0",
+  "id": "M138",
+  "label": "Social media intervention vs waitlist control on symptoms at 6 months or less (single trial, Kaplan 2011; negative = improvement)",
+  "value": -0.14,
+  "rule": "meta-analysis: main pooled estimates only",
+  "reason": "Single-trial figure (k=1); review states meta-analysis of symptoms was not performed because the second trial lacked data.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|S033|B|2",
+  "id": "S033",
+  "label": "Stimulant use among (competitive) gamers to prolong or enhance gaming: prevalence around 4.9% (not pooled)",
+  "value": 4.9,
+  "rule": "no single-study figures; cross-study forms only",
+  "reason": "'Around 4.9%' is an approximate point value, not a pooled, median, range or count; likely one study's figure.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|S050|A|0",
+  "id": "S050",
+  "label": "Prevalence of cyberchondria, range across studies 30.7% to 55.6% (no pooled estimate)",
+  "value": null,
+  "rule": "counted conditions",
+  "reason": "Prevalence of cyberchondria itself (the online behaviour) in general samples; no separate counted condition is paired with it.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|S052|A|0",
+  "id": "S052",
+  "label": "Health anxiety and cyberchondria: predominantly positive and significant, few nonsignificant; examined in 19 of 47 studies (number positive not stated)",
+  "value": null,
+  "rule": "no-meta-analysis: cross-study figure or count required",
+  "reason": "No number of studies with the result is stated ('predominantly positive'); only studies examined. Belongs in narrative_summary.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|S060|A|2",
+  "id": "S060",
+  "label": "Cyberbullying and attempted suicide: significant association in 1 of 1 study",
+  "value": 1,
+  "rule": "no single-study figures",
+  "reason": "Count of 1 of 1 restates a single study's result (aOR 1.88); not a cross-study result.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|S060|A|4",
+  "id": "S060",
+  "label": "Cyberbullying and NSSI: contradictory outcomes across 5 studies (no count of studies by result)",
+  "value": null,
+  "rule": "no-meta-analysis: cross-study figure or count required",
+  "reason": "Studies examined (5) but no count by result ('contradictory'); estimate null. Belongs in narrative_summary.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|S066|A|1",
+  "id": "S066",
+  "label": "Only 1 of 10 studies examined exposure to Instagram self-harm content and offline self-harm/suicidality; it reported harmful cross-sectional and preliminary longitudinal associations",
+  "value": 1,
+  "rule": "no single-study figures",
+  "reason": "Only one study examined this pairing; the 1-of-10 count restates a single study's result.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|S104|A|0",
+  "id": "S104",
+  "label": "Greater COVID-19 news consumption associated with decline in mental health (11 of 13 studies)",
+  "value": 11,
+  "rule": "counted conditions list",
+  "reason": "Outcome is general mental health decline including stress and distress, not a counted condition; exposure also includes traditional news media.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|S115|A|8",
+  "id": "S115",
+  "label": "Other DE manifestations (e.g., orthorexia, food preoccupation): limited or no evidence from 3 studies",
+  "value": null,
+  "rule": "reviews without meta-analysis: cross-study results only (pooled, median, range, or count of studies)",
+  "reason": "Qualitative rating ('limited or no evidence', three studies) gives no pooled, median, or range figure, nor a count of studies with a result.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|S166|A|4",
+  "id": "S166",
+  "label": "Age subgroup, minors: fatal outcome in 19/21 articles (90.5%) with known severity and age",
+  "value": 19,
+  "rule": "counted conditions list",
+  "reason": "Fatal-severity share of news articles mixes suicide with nonsuicide deaths; a severity category, not a counted condition.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|S166|A|5",
+  "id": "S166",
+  "label": "Age subgroup, adults 18-64: fatal outcome in 17/35 articles (48.6%) with known severity and age",
+  "value": 17,
+  "rule": "counted conditions list",
+  "reason": "Fatal-severity share of news articles mixes suicide with nonsuicide deaths; a severity category, not a counted condition.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|S180|A|10",
+  "id": "S180",
+  "label": "Barrier: fear of addiction to technology (1 study, 4%)",
+  "value": 1,
+  "rule": "counted conditions list",
+  "reason": "Barrier tally pools older adults without cognitive impairment, so not specific to a counted condition; fear of addiction is a perceived barrier.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|S180|A|11",
+  "id": "S180",
+  "label": "Participants able to learn to use smartphones and tablets in all training studies (15 of 15)",
+  "value": 15,
+  "rule": "counted conditions list",
+  "reason": "Training-study count pools older adults with and without cognitive impairment; device training is not an online exposure or harm.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|S180|B|7",
+  "id": "S180",
+  "label": "Barrier: lack of knowledge and familiarity (4 studies, 14%)",
+  "value": 4,
+  "rule": "counted conditions list",
+  "reason": "Barrier tally pools older adults without cognitive impairment, so the result is not specific to a counted condition.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|S180|B|9",
+  "id": "S180",
+  "label": "Barrier: cost of device (2 studies, 7%)",
+  "value": 2,
+  "rule": "counted conditions list",
+  "reason": "Barrier tally pools older adults without cognitive impairment, so the result is not specific to a counted condition.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|S185|B|0",
+  "id": "S185",
+  "label": "Intellectual disability identified as increasing likelihood of sexual exploitation (4 studies, among 10 sexual exploitation studies)",
+  "value": 4,
+  "rule": "online side must be an online exposure or harm",
+  "reason": "Sexual exploitation in this review is offline (sex work, trafficking); the count is papers studying intellectual disability, not a result.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|S241|B|0",
+  "id": "S241",
+  "label": "CCTV and clinical outcomes: no significant effect in 2 of 2 studies (substance/alcohol use on ward; subjective mental health and paranoid traits)",
+  "value": 2,
+  "rule": "reviews without meta-analysis: never single-study figures",
+  "reason": "Two single-study nulls on different outcomes (ward substance use; mental health and paranoid traits); no review-stated cross-study result per condition.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|S255|B|0",
+  "id": "S255",
+  "label": "Misinformation: up to 55% of posts (TikTok videos claiming to show epileptic seizures rated as psychogenic non-epileptic seizures)",
+  "value": 55,
+  "rule": "reviews without meta-analysis: never single-study figures",
+  "reason": "'Up to 55%' is one TikTok study's figure quoted as the maximum; no cross-study range or pooled value.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|S255|B|1",
+  "id": "S255",
+  "label": "Derogatory posts: up to 41% of posts (tweets on Twitter 'X')",
+  "value": 41,
+  "rule": "reviews without meta-analysis: never single-study figures",
+  "reason": "'Up to 41%' is one Twitter study's figure quoted as the maximum; no cross-study range or pooled value.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|M071|A|2",
+  "id": "M071",
+  "label": "Any risk gambling among adults who gambled in past 12 months (global, conditional)",
+  "value": 14.2,
+  "rule": "leftover call",
+  "reason": "Prevalence among people who already gamble, not a population estimate or an allowed subgroup.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|M071|A|3",
+  "id": "M071",
+  "label": "Problematic gambling among adults who gambled in past 12 months (global, conditional)",
+  "value": 2.8,
+  "rule": "leftover call",
+  "reason": "Prevalence among people who already gamble, not a population estimate or an allowed subgroup.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|M071|B|6",
+  "id": "M071",
+  "label": "Online gambling among adults who gambled in past 12 months",
+  "value": 13.3,
+  "rule": "leftover call",
+  "reason": "Online gambling among people who already gamble: a conditional estimate, not an allowed subgroup.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|M071|B|7",
+  "id": "M071",
+  "label": "Online gambling among adolescents who gambled in past 12 months",
+  "value": 48.7,
+  "rule": "leftover call",
+  "reason": "Online gambling among people who already gamble: a conditional estimate, not an allowed subgroup.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|M112|B|7",
+  "id": "M112",
+  "label": "Longitudinal: social media use at T0 with body image outcome at T1 (unadjusted)",
+  "value": 0.14,
+  "rule": "leftover call",
+  "reason": "Longitudinal-studies subset: a design subgroup, which the rules exclude (only age and clinical-versus-community subgroups).",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|S061|B|0",
+  "id": "S061",
+  "label": "Negative mental health effects reported among adult victims of cyber stalking/harassment in 42 of 43 studies (one found no relationship with well-being)",
+  "value": 42,
+  "rule": "leftover call",
+  "reason": "Composite of negative effects that mixes counted conditions with fear, anger, stress, and wellbeing; composites like this were dropped elsewhere.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|S077|A|1",
+  "id": "S077",
+  "label": "No study indicated socially anxious individuals receive their desired support online (count = 0)",
+  "value": 0,
+  "rule": "leftover call",
+  "reason": "An absence-of-evidence statement with no count of studies examined; it belongs in the narrative summary.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|S104|B|0",
+  "id": "S104",
+  "label": "Pooled prevalence of at least moderate anxiety in young people during COVID-19 (3 studies)",
+  "value": 39.1,
+  "rule": "leftover call",
+  "reason": "Pooled prevalence of anxiety in news-study samples, not linked to the level of news exposure.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|S126|A|1",
+  "id": "S126",
+  "label": "Body image: neutral effect of fitspiration (Krug et al.; 1 of 19 studies)",
+  "value": 1,
+  "rule": "leftover call",
+  "reason": "One named study, not a cross-study result.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|S126|A|4",
+  "id": "S126",
+  "label": "Physical appearance comparison: no effect of fitspiration exposure (Krug et al.; Tiggemann and Anderberg; 2 of 12 studies)",
+  "value": 2,
+  "rule": "leftover call",
+  "reason": "Appearance comparison is analysed as an associated variable, not body image; the same outcome was dropped for this review in the agreed set.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|S126|A|5",
+  "id": "S126",
+  "label": "Physical appearance comparison: positive (reducing) effect of fitspiration combined with self-compassion quotes versus fitspiration alone (Slater et al.; 1 of 12 studies)",
+  "value": 1,
+  "rule": "leftover call",
+  "reason": "One named study comparing two fitspiration conditions, not a cross-study result.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|S255|A|0",
+  "id": "S255",
+  "label": "Papers using standardized quality scores (GQS/DISCERN) that found clearly more than modest reliability (only the CBD-oil YouTube study, of 4 papers)",
+  "value": 1,
+  "rule": "leftover call",
+  "reason": "A count of one, which is a single study's result.",
+  "from_set": "one extractor"
+ },
+ {
+  "key": "S|X001|B|5",
+  "id": "X001",
+  "label": "Cyberbullying perpetration and suicide plans (positive, single effect)",
+  "value": 1.87,
+  "rule": "leftover call",
+  "reason": "One unique effect (k = 1), a single-study figure.",
+  "from_set": "one extractor"
+ }
+]
