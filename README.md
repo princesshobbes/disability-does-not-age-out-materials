@@ -1,10 +1,16 @@
 # Disability Does Not Age Out: materials
 
-These are the materials behind "Disability Does Not Age Out: An Umbrella Review and Evidence and Gap Map of Online Harms Across Disability and Mental Health Conditions" (Travis Gilly, Real Safety AI Foundation), version 2, November 1, 2026.
+These are the materials behind "Disability Does Not Age Out: An Umbrella Review and Evidence and Gap Map of Online Harms Across Disability and Mental Health Conditions" (Travis Gilly, Real Safety AI Foundation), version 2, November 1, 2026. The paper is at https://doi.org/10.68481/yzt5es.
 
 Full texts of the mapped studies are not included, because most are under publishers' copyright. Every record carries its DOI or a link to its source.
 
 ## How to cite
+
+The paper:
+
+Gilly, T. (2026). *Disability does not age out: An umbrella review and evidence and gap map of online harms across disability and mental health conditions* (Version 2) [Working paper]. Real Safety AI Foundation. https://doi.org/10.68481/yzt5es
+
+These materials:
 
 Gilly, T. (2026). *Materials for "Disability Does Not Age Out"* (Version 2) [Data set]. Real Safety AI Foundation. https://github.com/princesshobbes/disability-does-not-age-out-materials/releases/tag/v2
 
