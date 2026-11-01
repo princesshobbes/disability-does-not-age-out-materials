@@ -49,19 +49,21 @@ Correct DOIs whose publisher site did not load on November 1, with no free copy 
 
 ## Records with no DOI
 
-29 records had no DOI and no link. Links were found and opened in Chrome for 14 (CDC, WHO, NatCen, gov.uk, Eurostat, MMWR, PubMed, and one with a DOI). 15 still have no link:
-- "You're Not Crazy": A Case of New-onset AI-associated Psychosis. (Joseph M. Pierre et al., 2026)
-- Bipolar disorder and willingness to share financial data with fintech tools (survey) (Brozena J. et al., 2023)
-- "I'm Literally Just Hoping This Will Work:" Obstacles Blocking the Online Security and Privacy of Users with Visual Disabilities (Napoli D et al., 2021)
-- Facebook Use and Well-Being Among Army Veterans With PTSD (Daphna Yeshua-Katz, 2021)
-- The Relationship between Orthorexia Nervosa, Anorexia Nervosa, and the Use of Instagram (Bülter, 2021)
-- Achieving Anorexia: An Improbable but Possible Aspiration among College-Age Students (K. Goldberg, 2020)
-- Blind and Human: Exploring More Usable Audio CAPTCHA Designs (Fanelle V et al., 2020)
-- An Experimental Study on the Effects of Pro-Anorexia Content on Eating Disorder Development (Green, 2019)
-- Bet You Can't Eat Just One: Binge Eating Disorder Promotion In American Food Advertising (Danowski, 2019)
-- The use of social networking sites in adolescents and young adults: exploring the possible implications in youth mental health (Alice Barber, 2019)
-- Exposure to fad diet advertising among youth and young adults in Canada (Brittany Cormier, 2018)
-- Battling the Stigma: Combat Veterans' Use of Social Support in an Online PTSD Forum (Alexandru Stana et al., 2017)
-- Qualitative study of overspending in bipolar disorder (Richardson T. et al., 2016)
-- Social media and thinspiration (J. Dennison, 2016)
-- Relationship between risk behaviors for orthorexia nervosa, social media and diets in nutrition students (De Oliveira et al., None)
+29 records had no DOI and no link. Links were found and opened in Chrome for 14 (CDC, WHO, NatCen, gov.uk, Eurostat, MMWR, PubMed, and one with a DOI). The other 15 were found and opened in a web browser later the same day:
+- "You're Not Crazy": A Case of New-onset AI-associated Psychosis (Pierre et al.): https://escholarship.org/uc/item/97s799c1
+- Bipolar disorder and willingness to share financial data with fintech tools (Brozena et al.): DOI 10.1145/3613904.3642645 (CHI 2024)
+- "I'm Literally Just Hoping This Will Work" (Napoli et al., SOUPS 2021): https://www.usenix.org/conference/soups2021/presentation/napoli
+- Facebook Use and Well-Being Among Army Veterans With PTSD (Yeshua-Katz): https://ijoc.org/index.php/ijoc/article/view/16511
+- The Relationship between Orthorexia Nervosa, Anorexia Nervosa, and the Use of Instagram (Bülter): https://purl.utwente.nl/essays/86798
+- Achieving Anorexia (Goldberg): https://scholarworks.uvm.edu/items/483bdd41-a109-4042-ab28-4d8cfd37ab2d
+- Blind and Human (Fanelle et al., SOUPS 2020): https://www.usenix.org/conference/soups2020/presentation/fanelle
+- An Experimental Study on the Effects of Pro-Anorexia Content (Green): https://digitalcommons.wku.edu/theses/3138/
+- Bet You Can't Eat Just One (Danowski): https://digitalcommons.sacredheart.edu/media_fac/114/
+- The use of social networking sites in adolescents and young adults (Barber): https://ueaeprints.uea.ac.uk/id/eprint/72709/
+- Exposure to fad diet advertising among youth and young adults in Canada (Cormier): https://hdl.handle.net/10012/13846
+- Battling the Stigma (Stana et al.): https://digitalcommons.uncfsu.edu/college_humanities_social_sciences/46/
+- Qualitative study of overspending in bipolar disorder (Richardson et al., 2016 conference item): https://eprints.soton.ac.uk/id/eprint/398677/
+- Social media and thinspiration (Dennison, Gonzaga University thesis): https://www.proquest.com/openview/f509d65c49736c1a6ecd6cb8624de452/1
+- Relationship between risk behaviors for orthorexia nervosa, social media and diets in nutrition students (de Oliveira et al., 2021): DOI 10.17765/2176-9206.2021v14Supl.1.e9469
+
+Every record on the map now has a DOI or a link.
