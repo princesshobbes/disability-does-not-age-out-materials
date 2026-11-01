@@ -27,3 +27,9 @@ Claude Opus 5.5 (Anthropic) did three things:
 - wrote and ran the code;
 - ran the screening and extraction agents, in a multi-agent blind review where separate agents received only the rules, the records and the instruction;
 - decided the 37 extraction items that the rules did not settle, at the author's request. Each of those decisions is logged with its reason.
+
+## License
+
+These materials are released under the Creative Commons Attribution 4.0 International License (CC BY 4.0); the full text is in `LICENSE`. You may share and adapt them for any purpose, including commercially, if you give credit to Travis Gilly, Real Safety AI Foundation, link to the license, and say what you changed.
+
+The license covers the author's own work in these files: the coding, charting, extraction records, ratings, rules, logs and checks. It does not cover the bibliographic details of the mapped studies or the short verbatim quotes from them (25 words or fewer) that show where each extracted figure sits; those remain with their authors and publishers.
