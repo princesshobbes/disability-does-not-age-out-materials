@@ -12,7 +12,7 @@ Gilly, T. (2026). *Disability does not age out: An umbrella review and evidence 
 
 These materials:
 
-Gilly, T. (2026). *Materials for "Disability Does Not Age Out"* (Version 3) [Data set]. Real Safety AI Foundation. https://github.com/princesshobbes/disability-does-not-age-out-materials/releases/tag/v3
+Gilly, T. (2026). *Materials for "Disability Does Not Age Out"* (Version 3) [Data set]. Real Safety AI Foundation. https://github.com/princesshobbes/disability-does-not-age-out-materials
 
 ## Contents
 
