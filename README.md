@@ -1,6 +1,6 @@
 # Disability Does Not Age Out: materials
 
-These are the materials behind "Disability Does Not Age Out: An Umbrella Review and Evidence and Gap Map of Online Harms Across Disability and Mental Health Conditions" (Travis Gilly, Real Safety AI Foundation), version 2, November 1, 2026. The paper is at https://doi.org/10.68481/yzt5es.
+These are the materials behind "Disability Does Not Age Out: An Umbrella Review and Evidence and Gap Map of Online Harms Across Disability and Mental Health Conditions" (Travis Gilly, Real Safety AI Foundation), version 3, November 2, 2026. The paper is at https://doi.org/10.68481/yzt5es.
 
 Full texts of the mapped studies are not included, because most are under publishers' copyright. Every record carries its DOI or a link to its source.
 
@@ -8,11 +8,11 @@ Full texts of the mapped studies are not included, because most are under publis
 
 The paper:
 
-Gilly, T. (2026). *Disability does not age out: An umbrella review and evidence and gap map of online harms across disability and mental health conditions* (Version 2) [Working paper]. Real Safety AI Foundation. https://doi.org/10.68481/yzt5es
+Gilly, T. (2026). *Disability does not age out: An umbrella review and evidence and gap map of online harms across disability and mental health conditions* (Version 3) [Working paper]. Real Safety AI Foundation. https://doi.org/10.68481/yzt5es
 
 These materials:
 
-Gilly, T. (2026). *Materials for "Disability Does Not Age Out"* (Version 2) [Data set]. Real Safety AI Foundation. https://github.com/princesshobbes/disability-does-not-age-out-materials/releases/tag/v2
+Gilly, T. (2026). *Materials for "Disability Does Not Age Out"* (Version 3) [Data set]. Real Safety AI Foundation. https://github.com/princesshobbes/disability-does-not-age-out-materials/releases/tag/v3
 
 ## Contents
 
@@ -27,12 +27,14 @@ Gilly, T. (2026). *Materials for "Disability Does Not Age Out"* (Version 2) [Dat
 
 ## Who did what
 
-Travis Gilly designed and approved the methodology, the scope, the rule sets and the guidelines, and settled every screening and extraction disagreement.
+Travis Gilly designed and approved the methodology, the scope, the rule sets and the guidelines; designed the searches and ran them through his paid Consensus and Scite accounts and the other sources named in the paper; settled every screening and extraction disagreement; and decided the 37 extraction items the rules did not settle, approving each decision and the reason logged with it.
 
 Claude Opus 5.5 (Anthropic) did three things:
 - wrote and ran the code;
-- ran the screening and extraction agents, in a multi-agent blind review where separate agents received only the rules, the records and the instruction;
-- decided the 37 extraction items that the rules did not settle, at the author's request. Each of those decisions is logged with its reason.
+- charted the records from their abstracts under the rules;
+- ran the screening and extraction agents, in a multi-agent blind review where separate agents received only the rules, the records and the instruction.
+
+Correction (November 2, 2026): earlier versions of this README, the extraction appendix, and the paper credited Claude with the searches and with the 37 extraction decisions. Both were the author's.
 
 ## License
 
